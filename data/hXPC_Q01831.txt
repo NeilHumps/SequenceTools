@@ -1,0 +1,1053 @@
+ID   XPC_HUMAN               Reviewed;         940 AA.
+AC   Q01831; B4DIP3; E9PB96; E9PH69; Q53GT7; Q96AX0;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 4.
+DT   13-NOV-2019, entry version 199.
+DE   RecName: Full=DNA repair protein complementing XP-C cells;
+DE   AltName: Full=Xeroderma pigmentosum group C-complementing protein;
+DE   AltName: Full=p125;
+GN   Name=XPC; Synonyms=XPCC;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), PROTEIN SEQUENCE OF 2-55, AND
+RP   VARIANTS VAL-499 AND LYS-939.
+RX   PubMed=8168482; DOI=10.1002/j.1460-2075.1994.tb06452.x;
+RA   Masutani C., Sugasawa K., Yanagisawa J., Sonoyama T., Ui M.,
+RA   Enomoto T., Takio K., Tanaka K., van der Spek P.J., Bootsma D.,
+RA   Hoeijmakers J.H.J., Hanaoka F.;
+RT   "Purification and cloning of a nucleotide excision repair complex
+RT   involving the Xeroderma pigmentosum group C protein and a human
+RT   homologue of yeast RAD23.";
+RL   EMBO J. 13:1831-1843(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], VARIANTS VAL-499 AND LYS-939, AND
+RP   ALTERNATIVE SPLICING.
+RX   PubMed=12177305; DOI=10.1093/nar/gkf469;
+RA   Khan S.G., Muniz-Medina V., Shahlavi T., Baker C.C., Inui H., Ueda T.,
+RA   Emmert S., Schneider T.D., Kraemer K.H.;
+RT   "The human XPC DNA repair gene: arrangement, splice site information
+RT   content and influence of a single nucleotide polymorphism in a splice
+RT   acceptor site on alternative splicing and function.";
+RL   Nucleic Acids Res. 30:3624-3631(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3).
+RC   TISSUE=Fetal brain;
+RX   PubMed=24722188; DOI=10.1038/ncomms4650;
+RA   Corominas R., Yang X., Lin G.N., Kang S., Shen Y., Ghamsari L.,
+RA   Broly M., Rodriguez M., Tam S., Wanamaker S.A., Fan C., Yi S.,
+RA   Tasan M., Lemmens I., Kuang X., Zhao N., Malhotra D., Michaelson J.J.,
+RA   Vacic V., Calderwood M.A., Roth F.P., Tavernier J., Horvath S.,
+RA   Salehi-Ashtiani K., Korkin D., Sebat J., Hill D.E., Hao T., Vidal M.,
+RA   Iakoucheva L.M.;
+RT   "Protein interaction network of alternatively spliced isoforms from
+RT   brain links genetic risk factors for autism.";
+RL   Nat. Commun. 5:3650-3650(2014).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS VAL-16; PHE-48;
+RP   ARG-86; GLN-314; HIS-492; VAL-499; ILE-513; GLU-632; HIS-671; MET-689;
+RP   GLN-928 AND LYS-939.
+RG   NIEHS SNPs program;
+RL   Submitted (JUL-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Hippocampus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R.,
+RA   Buhay C.J., Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R.,
+RA   Gunaratne P., Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V.,
+RA   Hume J., Jackson A., Khan Z.M., Kovar-Smith C., Lewis L.R.,
+RA   Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D., Wei S.,
+RA   Wheeler D.A., Wright M.W., Worley K.C., Yuan Y., Zhang Z., Adams C.Q.,
+RA   Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clendenning J., Clerc-Blankenburg K.P., Chen R., Chen Z., Davis C.,
+RA   Delgado O., Dinh H.H., Dong W., Draper H., Ernst S., Fu G.,
+RA   Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J., Hao B.,
+RA   Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W., Jackson L.R.,
+RA   Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B., Liu J.,
+RA   Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O., Palmeiri A.,
+RA   Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J.,
+RA   Zhang X., Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H.,
+RA   Reinhardt R., Naylor S.L., Yang H., Olson M., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 69-940 (ISOFORM 1).
+RC   TISSUE=Liver;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 119-940 (ISOFORM 1).
+RX   PubMed=1522891; DOI=10.1038/359070a0;
+RA   Legerski R.J., Peterson C.A.;
+RT   "Expression cloning of a human DNA repair gene involved in Xeroderma
+RT   pigmentosum group C.";
+RL   Nature 359:70-73(1992).
+RN   [10]
+RP   ERRATUM.
+RX   PubMed=1461286; DOI=10.1038/360610b0;
+RA   Legerski R.J., Peterson C.A.;
+RL   Nature 360:610-610(1992).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=8692695; DOI=10.1093/nar/24.13.2551;
+RA   van der Spek P.J., Eker A., Rademakers S., Visser C., Sugasawa K.,
+RA   Masutani C., Hanaoka F., Bootsma D., Hoeijmakers J.H.;
+RT   "XPC and human homologs of RAD23: intracellular localization and
+RT   relationship to other nucleotide excision repair complexes.";
+RL   Nucleic Acids Res. 24:2551-2559(1996).
+RN   [12]
+RP   INTERACTION WITH RAD23A.
+RX   PubMed=9372924; DOI=10.1128/mcb.17.12.6924;
+RA   Sugasawa K., Ng J.M., Masutani C., Maekawa T., Uchida A.,
+RA   van der Spek P.J., Eker A.P., Rademakers S., Visser C.,
+RA   Aboussekhra A., Wood R.D., Hanaoka F., Bootsma D., Hoeijmakers J.H.;
+RT   "Two human homologs of Rad23 are functionally interchangeable in
+RT   complex formation and stimulation of XPC repair activity.";
+RL   Mol. Cell. Biol. 17:6924-6931(1997).
+RN   [13]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=9734359; DOI=10.1016/s1097-2765(00)80132-x;
+RA   Sugasawa K., Ng J.M., Masutani C., Iwai S., van der Spek P.J.,
+RA   Eker A.P., Hanaoka F., Bootsma D., Hoeijmakers J.H.;
+RT   "Xeroderma pigmentosum group C protein complex is the initiator of
+RT   global genome nucleotide excision repair.";
+RL   Mol. Cell 2:223-232(1998).
+RN   [14]
+RP   FUNCTION, SUBUNIT, AND INTERACTION WITH CCNH; GTF2H1 AND ERCC3.
+RX   PubMed=10734143; DOI=10.1074/jbc.275.13.9870;
+RA   Yokoi M., Masutani C., Maekawa T., Sugasawa K., Ohkuma Y., Hanaoka F.;
+RT   "The xeroderma pigmentosum group C protein complex XPC-HR23B plays an
+RT   important role in the recruitment of transcription factor IIH to
+RT   damaged DNA.";
+RL   J. Biol. Chem. 275:9870-9875(2000).
+RN   [15]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=10873465; DOI=10.1006/jmbi.2000.3857;
+RA   Batty D., Rapic'-Otrin V., Levine A.S., Wood R.D.;
+RT   "Stable binding of human XPC complex to irradiated DNA confers strong
+RT   discrimination for damaged sites.";
+RL   J. Mol. Biol. 300:275-290(2000).
+RN   [16]
+RP   INTERACTION WITH CETN2 AND RAD23B, SUBCELLULAR LOCATION, AND
+RP   CHARACTERIZATION OF THE XPC COMPLEX.
+RX   PubMed=11279143; DOI=10.1074/jbc.m100855200;
+RA   Araki M., Masutani C., Takemura M., Uchida A., Sugasawa K., Kondoh J.,
+RA   Ohkuma Y., Hanaoka F.;
+RT   "Centrosome protein centrin 2/caltractin 1 is part of the xeroderma
+RT   pigmentosum group C complex that initiates global genome nucleotide
+RT   excision repair.";
+RL   J. Biol. Chem. 276:18665-18672(2001).
+RN   [17]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=12509299; DOI=10.1016/s1568-7864(01)00008-8;
+RA   Sugasawa K., Shimizu Y., Iwai S., Hanaoka F.;
+RT   "A molecular mechanism for DNA damage recognition by the xeroderma
+RT   pigmentosum group C protein complex.";
+RL   DNA Repair 1:95-107(2002).
+RN   [18]
+RP   DNA-BINDING, AND INTERACTION WITH RAD23B; ERCC2 AND GTF2H1.
+RX   PubMed=12509233; DOI=10.1016/s1568-7864(02)00031-9;
+RA   Uchida A., Sugasawa K., Masutani C., Dohmae N., Araki M., Yokoi M.,
+RA   Ohkuma Y., Hanaoka F.;
+RT   "The carboxy-terminal domain of the XPC protein plays a crucial role
+RT   in nucleotide excision repair through interactions with transcription
+RT   factor IIH.";
+RL   DNA Repair 1:449-461(2002).
+RN   [19]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=12547395; DOI=10.1016/s1568-7864(02)00222-7;
+RA   Janicijevic A., Sugasawa K., Shimizu Y., Hanaoka F., Wijgers N.,
+RA   Djurica M., Hoeijmakers J.H., Wyman C.;
+RT   "DNA bending by the human damage recognition complex XPC-HR23B.";
+RL   DNA Repair 2:325-336(2003).
+RN   [20]
+RP   INTERACTION WITH TDG.
+RX   PubMed=12505994; DOI=10.1093/emboj/cdg016;
+RA   Shimizu Y., Iwai S., Hanaoka F., Sugasawa K.;
+RT   "Xeroderma pigmentosum group C protein interacts physically and
+RT   functionally with thymine DNA glycosylase.";
+RL   EMBO J. 22:164-173(2003).
+RN   [21]
+RP   UBIQUITINATION, AND INTERACTION WITH DDB2.
+RX   PubMed=15882621; DOI=10.1016/j.cell.2005.02.035;
+RA   Sugasawa K., Okuda Y., Saijo M., Nishi R., Matsuda N., Chu G.,
+RA   Mori T., Iwai S., Tanaka K., Tanaka K., Hanaoka F.;
+RT   "UV-induced ubiquitylation of XPC protein mediated by UV-DDB-ubiquitin
+RT   ligase complex.";
+RL   Cell 121:387-400(2005).
+RN   [22]
+RP   INTERACTION WITH CETN2 AND RAD23B, AND MUTAGENESIS OF TRP-848; LEU-851
+RP   AND LEU-855.
+RX   PubMed=15964821; DOI=10.1128/mcb.25.13.5664-5674.2005;
+RA   Nishi R., Okuda Y., Watanabe E., Mori T., Iwai S., Masutani C.,
+RA   Sugasawa K., Hanaoka F.;
+RT   "Centrin 2 stimulates nucleotide excision repair by interacting with
+RT   xeroderma pigmentosum group C protein.";
+RL   Mol. Cell. Biol. 25:5664-5674(2005).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-94 AND SER-129, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P.,
+RA   Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in
+RT   signaling networks.";
+RL   Cell 127:635-648(2006).
+RN   [24]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Prostate cancer;
+RX   PubMed=17487921; DOI=10.1002/elps.200600782;
+RA   Giorgianni F., Zhao Y., Desiderio D.M., Beranova-Giorgianni S.;
+RT   "Toward a global characterization of the phosphoproteome in prostate
+RT   cancer cells: identification of phosphoproteins in the LNCaP cell
+RT   line.";
+RL   Electrophoresis 28:2027-2034(2007).
+RN   [25]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III,
+RA   Hurov K.E., Luo J., Bakalarski C.E., Zhao Z., Solimini N.,
+RA   Lerenthal Y., Shiloh Y., Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [26]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D.,
+RA   Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for
+RT   efficient phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [27]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-94; THR-169; SER-883;
+RP   SER-884 AND SER-891, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE
+RP   SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [28]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=18318008; DOI=10.1002/pmic.200700884;
+RA   Han G., Ye M., Zhou H., Jiang X., Feng S., Jiang X., Tian R., Wan D.,
+RA   Zou H., Gu J.;
+RT   "Large-scale phosphoproteome analysis of human liver tissue by
+RT   enrichment and fractionation of phosphopeptides with strong anion
+RT   exchange chromatography.";
+RL   Proteomics 8:1346-1361(2008).
+RN   [29]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [30]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-94; SER-129; SER-883 AND
+RP   SER-884, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [31]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-94; THR-876; SER-883 AND
+RP   SER-884, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J.,
+RA   Johansen P.T., Kratchmarova I., Kassem M., Mann M., Olsen J.V.,
+RA   Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and
+RT   phosphoproteome of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [32]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-883 AND SER-884, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [33]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-94; SER-140; SER-397;
+RP   SER-398; SER-399; SER-453; SER-460; SER-883; SER-884 AND SER-903, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [34]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-81, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [35]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-81, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to
+RT   replication stress reveals novel small ubiquitin-like modified target
+RT   proteins and acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [36]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-41; LYS-81; LYS-89 AND
+RP   LYS-161, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-
+RT   modification with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [37]
+RP   CHARACTERIZATION OF VARIANT XP-C SER-690.
+RX   PubMed=17682058; DOI=10.1128/mcb.02166-06;
+RA   Yasuda G., Nishi R., Watanabe E., Mori T., Iwai S., Orioli D.,
+RA   Stefanini M., Hanaoka F., Sugasawa K.;
+RT   "In vivo destabilization and functional defects of the xeroderma
+RT   pigmentosum C protein caused by a pathogenic missense mutation.";
+RL   Mol. Cell. Biol. 27:6606-6614(2007).
+RN   [38]
+RP   CHARACTERIZATION OF VARIANT XP-C SER-690, AND MUTAGENESIS OF PHE-733.
+RX   PubMed=17355181; DOI=10.1371/journal.pbio.0050079;
+RA   Maillard O., Solyom S., Naegeli H.;
+RT   "An aromatic sensor with aversion to damaged strands confers
+RT   versatility to DNA repair.";
+RL   PLoS Biol. 5:E79-E79(2007).
+RN   [39]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=18682493; DOI=10.1242/jcs.031708;
+RA   Hoogstraten D., Bergink S., Ng J.M., Verbiest V.H., Luijsterburg M.S.,
+RA   Geverts B., Raams A., Dinant C., Hoeijmakers J.H., Vermeulen W.,
+RA   Houtsmuller A.B.;
+RT   "Versatile DNA damage detection by the global genome nucleotide
+RT   excision repair protein XPC.";
+RL   J. Cell Sci. 121:2850-2859(2008).
+RN   [40]
+RP   ERRATUM.
+RA   Hoogstraten D., Bergink S., Ng J.M., Verbiest V.H., Luijsterburg M.S.,
+RA   Geverts B., Raams A., Dinant C., Hoeijmakers J.H., Vermeulen W.,
+RA   Houtsmuller A.B.;
+RL   J. Cell Sci. 121:2972-2972(2008).
+RN   [41]
+RP   ERRATUM.
+RA   Hoogstraten D., Bergink S., Ng J.M., Verbiest V.H., Luijsterburg M.S.,
+RA   Geverts B., Raams A., Dinant C., Hoeijmakers J.H., Vermeulen W.,
+RA   Houtsmuller A.B.;
+RL   J. Cell Sci. 121:3991-3991(2008).
+RN   [42]
+RP   FUNCTION, CHARACTERIZATION OF VARIANT OF VARIANT XP-C SER-690, AND
+RP   MUTAGENESIS OF TRP-531; TRP-542; PHE-733 AND GLU-755.
+RX   PubMed=19609301; DOI=10.1038/emboj.2009.187;
+RA   Camenisch U., Trautlein D., Clement F.C., Fei J., Leitenstorfer A.,
+RA   Ferrando-May E., Naegeli H.;
+RT   "Two-stage dynamic DNA quality check by xeroderma pigmentosum group C
+RT   protein.";
+RL   EMBO J. 28:2387-2399(2009).
+RN   [43]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=19941824; DOI=10.1016/j.molcel.2009.09.035;
+RA   Sugasawa K., Akagi J., Nishi R., Iwai S., Hanaoka F.;
+RT   "Two-step recognition of DNA damage for mammalian nucleotide excision
+RT   repair: Directional binding of the XPC complex and DNA strand
+RT   scanning.";
+RL   Mol. Cell 36:642-653(2009).
+RN   [44]
+RP   FUNCTION, AND MUTAGENESIS OF ASN-754; PHE-756; PHE-797 AND PHE-799.
+RX   PubMed=20649465; DOI=10.1089/ars.2010.3399;
+RA   Clement F.C., Kaczmarek N., Mathieu N., Tomas M., Leitenstorfer A.,
+RA   Ferrando-May E., Naegeli H.;
+RT   "Dissection of the xeroderma pigmentosum group C protein function by
+RT   site-directed mutagenesis.";
+RL   Antioxid. Redox Signal. 14:2479-2490(2011).
+RN   [45]
+RP   FUNCTION OF THE XPC COMPLEX.
+RX   PubMed=20028083; DOI=10.1021/bi901575h;
+RA   Neher T.M., Rechkunova N.I., Lavrik O.I., Turchi J.J.;
+RT   "Photo-cross-linking of XPC-Rad23B to cisplatin-damaged DNA reveals
+RT   contacts with both strands of the DNA duplex and spans the DNA
+RT   adduct.";
+RL   Biochemistry 49:669-678(2010).
+RN   [46]
+RP   FUNCTION OF THE XPC COMPLEX, AND INTERACTION WITH TDG AND SMUG1.
+RX   PubMed=20798892; DOI=10.4061/2010/805698;
+RA   Shimizu Y., Uchimura Y., Dohmae N., Saitoh H., Hanaoka F.,
+RA   Sugasawa K.;
+RT   "Stimulation of DNA glycosylase activities by XPC Protein Complex:
+RT   Roles of protein-protein interactions.";
+RL   J. Nucleic Acids 2010:455-459(2010).
+RN   [47]
+RP   UBIQUITINATION, AND SUMOYLATION.
+RX   PubMed=23751493; DOI=10.1083/jcb.201212075;
+RA   Poulsen S.L., Hansen R.K., Wagner S.A., van Cuijk L., van Belle G.J.,
+RA   Streicher W., Wikstroem M., Choudhary C., Houtsmuller A.B.,
+RA   Marteijn J.A., Bekker-Jensen S., Mailand N.;
+RT   "RNF111/Arkadia is a SUMO-targeted ubiquitin ligase that facilitates
+RT   the DNA damage response.";
+RL   J. Cell Biol. 201:797-807(2013).
+RN   [48]
+RP   FUNCTION, INTERACTION WITH E2F1 AND KAT2A, AND CHARACTERIZATION OF
+RP   VARIANT XP-C HIS-334.
+RX   PubMed=29973595; DOI=10.1038/s41467-018-05010-0;
+RA   Bidon B., Iltis I., Semer M., Nagy Z., Larnicol A., Cribier A.,
+RA   Benkirane M., Coin F., Egly J.M., Le May N.;
+RT   "XPC is an RNA polymerase II cofactor recruiting ATAC to promoters by
+RT   interacting with E2F1.";
+RL   Nat. Commun. 9:2610-2610(2018).
+RN   [49]
+RP   INTERACTION WITH KAT2A.
+RX   PubMed=31527837; DOI=10.1038/s41589-019-0354-y;
+RA   Semer M., Bidon B., Larnicol A., Caliskan G., Catez P., Egly J.M.,
+RA   Coin F., Le May N.;
+RT   "DNA repair complex licenses acetylation of H2A.Z.1 by KAT2A during
+RT   transcription.";
+RL   Nat. Chem. Biol. 15:992-1000(2019).
+RN   [50]
+RP   STRUCTURE BY NMR OF 847-863 IN COMPLEX WITH CETN2.
+RX   PubMed=16533048; DOI=10.1021/bi0524868;
+RA   Yang A., Miron S., Mouawad L., Duchambon P., Blouquit Y.,
+RA   Craescu C.T.;
+RT   "Flexibility and plasticity of human centrin 2 binding to the
+RT   xeroderma pigmentosum group C protein (XPC) from nuclear excision
+RT   repair.";
+RL   Biochemistry 45:3653-3663(2006).
+RN   [51]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 847-863 IN COMPLEX WITH
+RP   CETN2.
+RX   PubMed=16627479; DOI=10.1074/jbc.m513667200;
+RA   Thompson J.R., Ryan Z.C., Salisbury J.L., Kumar R.;
+RT   "The structure of the human centrin 2-xeroderma pigmentosum group C
+RT   protein complex.";
+RL   J. Biol. Chem. 281:18746-18752(2006).
+RN   [52]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 847-863 IN COMPLEX WITH
+RP   CETN2.
+RX   PubMed=17897675; DOI=10.1016/j.jmb.2007.08.046;
+RA   Charbonnier J.B., Renaud E., Miron S., Le Du M.H., Blouquit Y.,
+RA   Duchambon P., Christova P., Shosheva A., Rose T., Angulo J.F.,
+RA   Craescu C.T.;
+RT   "Structural, thermodynamic, and cellular characterization of human
+RT   centrin 2 interaction with xeroderma pigmentosum group C protein.";
+RL   J. Mol. Biol. 373:1032-1046(2007).
+RN   [53]
+RP   REVIEW ON VARIANTS XP-C.
+RX   PubMed=10447254;
+RX   DOI=10.1002/(sici)1098-1004(1999)14:1<9::aid-humu2>3.0.co;2-6;
+RA   Cleaver J.E., Thompson L.H., Richardson A.S., States J.C.;
+RT   "A summary of mutations in the UV-sensitive disorders: xeroderma
+RT   pigmentosum, Cockayne syndrome, and trichothiodystrophy.";
+RL   Hum. Mutat. 14:9-22(1999).
+RN   [54]
+RP   VARIANTS XP-C HIS-334 AND VAL-697 INS.
+RX   PubMed=8298653; DOI=10.1038/ng1293-413;
+RA   Li L., Bales E.S., Peterson C.A., Legerski R.J.;
+RT   "Characterization of molecular defects in Xeroderma pigmentosum group
+RT   C.";
+RL   Nat. Genet. 5:413-417(1993).
+RN   [55]
+RP   VARIANT XP-C SER-690.
+RX   PubMed=10766188;
+RA   Chavanne F., Broughton B.C., Pietra D., Nardo T., Browitt A.,
+RA   Lehmann A.R., Stefanini M.;
+RT   "Mutations in the XPC gene in families with xeroderma pigmentosum and
+RT   consequences at the cell, protein, and transcript levels.";
+RL   Cancer Res. 60:1974-1982(2000).
+CC   -!- FUNCTION: Involved in global genome nucleotide excision repair
+CC       (GG-NER) by acting as damage sensing and DNA-binding factor
+CC       component of the XPC complex (PubMed:10734143, PubMed:19609301,
+CC       PubMed:20649465, PubMed:9734359, PubMed:10873465, PubMed:12509299,
+CC       PubMed:12547395, PubMed:19941824, PubMed:20028083,
+CC       PubMed:20798892). Has only a low DNA repair activity by itself
+CC       which is stimulated by RAD23B and RAD23A. Has a preference to bind
+CC       DNA containing a short single-stranded segment but not to damaged
+CC       oligonucleotides (PubMed:10734143, PubMed:19609301,
+CC       PubMed:20649465). This feature is proposed to be related to a
+CC       dynamic sensor function: XPC can rapidly screen duplex DNA for
+CC       non-hydrogen-bonded bases by forming a transient nucleoprotein
+CC       intermediate complex which matures into a stable recognition
+CC       complex through an intrinsic single-stranded DNA-binding activity
+CC       (PubMed:10734143, PubMed:19609301, PubMed:20649465). The XPC
+CC       complex is proposed to represent the first factor bound at the
+CC       sites of DNA damage and together with other core recognition
+CC       factors, XPA, RPA and the TFIIH complex, is part of the pre-
+CC       incision (or initial recognition) complex (PubMed:9734359,
+CC       PubMed:10873465, PubMed:12509299, PubMed:12547395,
+CC       PubMed:19941824, PubMed:20028083, PubMed:20798892). The XPC
+CC       complex recognizes a wide spectrum of damaged DNA characterized by
+CC       distortions of the DNA helix such as single-stranded loops,
+CC       mismatched bubbles or single-stranded overhangs (PubMed:9734359,
+CC       PubMed:10873465, PubMed:12509299, PubMed:12547395,
+CC       PubMed:19941824, PubMed:20028083, PubMed:20798892). The
+CC       orientation of XPC complex binding appears to be crucial for
+CC       inducing a productive NER (PubMed:9734359, PubMed:10873465,
+CC       PubMed:12509299, PubMed:12547395, PubMed:19941824,
+CC       PubMed:20028083, PubMed:20798892). XPC complex is proposed to
+CC       recognize and to interact with unpaired bases on the undamaged DNA
+CC       strand which is followed by recruitment of the TFIIH complex and
+CC       subsequent scanning for lesions in the opposite strand in a 5'-to-
+CC       3' direction by the NER machinery (PubMed:9734359,
+CC       PubMed:10873465, PubMed:12509299, PubMed:12547395,
+CC       PubMed:19941824, PubMed:20028083, PubMed:20798892). Cyclobutane
+CC       pyrimidine dimers (CPDs) which are formed upon UV-induced DNA
+CC       damage esacpe detection by the XPC complex due to a low degree of
+CC       structural perurbation. Instead they are detected by the UV-DDB
+CC       complex which in turn recruits and cooperates with the XPC complex
+CC       in the respective DNA repair (PubMed:9734359, PubMed:10873465,
+CC       PubMed:12509299, PubMed:12547395, PubMed:19941824,
+CC       PubMed:20028083, PubMed:20798892). In vitro, the XPC:RAD23B dimer
+CC       is sufficient to initiate NER; it preferentially binds to
+CC       cisplatin and UV-damaged double-stranded DNA and also binds to a
+CC       variety of chemically and structurally diverse DNA adducts
+CC       (PubMed:20028083). XPC:RAD23B contacts DNA both 5' and 3' of a
+CC       cisplatin lesion with a preference for the 5' side. XPC:RAD23B
+CC       induces a bend in DNA upon binding. XPC:RAD23B stimulates the
+CC       activity of DNA glycosylases TDG and SMUG1 (PubMed:20028083).
+CC       {ECO:0000269|PubMed:10734143, ECO:0000269|PubMed:10873465,
+CC       ECO:0000269|PubMed:12509299, ECO:0000269|PubMed:12547395,
+CC       ECO:0000269|PubMed:19609301, ECO:0000269|PubMed:19941824,
+CC       ECO:0000269|PubMed:20028083, ECO:0000269|PubMed:20649465,
+CC       ECO:0000269|PubMed:20798892, ECO:0000269|PubMed:9734359}.
+CC   -!- FUNCTION: In absence of DNA repair, the XPC complex also acts as a
+CC       transcription coactivator: XPC interacts with the DNA-binding
+CC       transcription factor E2F1 at a subset of promoters to recruit
+CC       KAT2A and histone acetyltransferase complexes (HAT)
+CC       (PubMed:29973595, PubMed:31527837). KAT2A recruitment specifically
+CC       promotes acetylation of histone variant H2A.Z.1/H2A.Z, but not
+CC       H2A.Z.2/H2A.V, thereby promoting expression of target genes
+CC       (PubMed:31527837). {ECO:0000269|PubMed:29973595,
+CC       ECO:0000269|PubMed:31527837}.
+CC   -!- SUBUNIT: Component of the XPC complex composed of XPC, RAD23B and
+CC       CETN2 (PubMed:11279143, PubMed:12509233, PubMed:15964821,
+CC       PubMed:17897675, PubMed:16627479, PubMed:16533048). Interacts with
+CC       RAD23A; the interaction is suggesting the existence of a
+CC       functional equivalent variant XPC complex (PubMed:9372924).
+CC       Interacts with TDG; the interaction is demonstrated using the
+CC       XPC:RAD23B dimer (PubMed:12505994, PubMed:20798892). Interacts
+CC       with SMUG1; the interaction is demonstrated using the XPC:RAD23B
+CC       dimer (PubMed:20798892). Interacts with DDB2 (PubMed:15882621).
+CC       Interacts with CCNH, GTF2H1 and ERCC3 (PubMed:10734143,
+CC       PubMed:12509233). Interacts with E2F1 and KAT2A; leading to KAT2A
+CC       recruitment to promoters and subsequent acetylation of histones
+CC       (PubMed:29973595, PubMed:31527837). {ECO:0000269|PubMed:10734143,
+CC       ECO:0000269|PubMed:11279143, ECO:0000269|PubMed:12505994,
+CC       ECO:0000269|PubMed:12509233, ECO:0000269|PubMed:15882621,
+CC       ECO:0000269|PubMed:15964821, ECO:0000269|PubMed:16533048,
+CC       ECO:0000269|PubMed:16627479, ECO:0000269|PubMed:17897675,
+CC       ECO:0000269|PubMed:20798892, ECO:0000269|PubMed:29973595,
+CC       ECO:0000269|PubMed:31527837, ECO:0000269|PubMed:9372924}.
+CC   -!- INTERACTION:
+CC       P13288:BGLF4 (xeno); NbExp=9; IntAct=EBI-372610, EBI-1630636;
+CC       P41208:CETN2; NbExp=5; IntAct=EBI-372610, EBI-1789926;
+CC       Q92466:DDB2; NbExp=4; IntAct=EBI-15950383, EBI-1176171;
+CC       P19447:ERCC3; NbExp=2; IntAct=EBI-372610, EBI-1183307;
+CC       P32780:GTF2H1; NbExp=3; IntAct=EBI-15950383, EBI-715539;
+CC       P62195:PSMC5; NbExp=2; IntAct=EBI-372610, EBI-357745;
+CC       P54727:RAD23B; NbExp=6; IntAct=EBI-372610, EBI-954531;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11279143,
+CC       ECO:0000269|PubMed:18682493, ECO:0000269|PubMed:8692695}.
+CC       Chromosome {ECO:0000269|PubMed:29973595}. Cytoplasm
+CC       {ECO:0000269|PubMed:18682493}. Note=Omnipresent in the nucleus and
+CC       consistently associates with and dissociates from DNA in the
+CC       absence of DNA damage (PubMed:18682493). Continuously shuttles
+CC       between the cytoplasm and the nucleus, which is impeded by the
+CC       presence of NER lesions (PubMed:18682493).
+CC       {ECO:0000269|PubMed:18682493}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q01831-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q01831-2; Sequence=VSP_046344;
+CC         Note=No experimental confirmation available.;
+CC       Name=3; Synonyms=B;
+CC         IsoId=Q01831-3; Sequence=VSP_055890, VSP_055891;
+CC   -!- PTM: Ubiquitinated upon UV irradiation; the ubiquitination
+CC       requires the UV-DDB complex, appears to be reversible and does not
+CC       serve as a signal for degradation (PubMed:15882621,
+CC       PubMed:23751493). Ubiquitinated by RNF11 via 'Lys-63'-linked
+CC       ubiquitination (PubMed:23751493). Ubiquitination by RNF111 is
+CC       polysumoylation-dependent and promotes nucleotide excision repair
+CC       (PubMed:23751493). {ECO:0000269|PubMed:15882621,
+CC       ECO:0000269|PubMed:23751493}.
+CC   -!- PTM: Sumoylated; sumoylation promotes ubiquitination by RNF111.
+CC       {ECO:0000269|PubMed:23751493}.
+CC   -!- DISEASE: Xeroderma pigmentosum complementation group C (XP-C)
+CC       [MIM:278720]: An autosomal recessive pigmentary skin disorder
+CC       characterized by solar hypersensitivity of the skin, high
+CC       predisposition for developing cancers on areas exposed to sunlight
+CC       and, in some cases, neurological abnormalities. The skin develops
+CC       marked freckling and other pigmentation abnormalities.
+CC       {ECO:0000269|PubMed:10447254, ECO:0000269|PubMed:10766188,
+CC       ECO:0000269|PubMed:17355181, ECO:0000269|PubMed:17682058,
+CC       ECO:0000269|PubMed:19609301, ECO:0000269|PubMed:29973595,
+CC       ECO:0000269|PubMed:8298653}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the XPC family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/XPCID122.html";
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/xpc/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D21089; BAA04651.1; -; mRNA.
+DR   EMBL; AF261901; AAF87574.1; -; Genomic_DNA.
+DR   EMBL; AF261892; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261893; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261894; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261895; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261896; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261897; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261898; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261899; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; AF261900; AAF87574.1; JOINED; Genomic_DNA.
+DR   EMBL; KJ535085; AHW56724.1; -; mRNA.
+DR   EMBL; AY131066; AAM77801.1; -; Genomic_DNA.
+DR   EMBL; AK295711; BAG58555.1; -; mRNA.
+DR   EMBL; AC093495; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; FJ695191; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; FJ695192; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC016620; AAH16620.1; -; mRNA.
+DR   EMBL; AK222844; BAD96564.1; -; mRNA.
+DR   EMBL; X65024; CAA46158.1; -; mRNA.
+DR   CCDS; CCDS46763.1; -. [Q01831-1]
+DR   PIR; S44345; S44345.
+DR   RefSeq; NP_004619.3; NM_004628.4. [Q01831-1]
+DR   PDB; 2A4J; NMR; -; B=847-863.
+DR   PDB; 2GGM; X-ray; 2.35 A; C/D=847-863.
+DR   PDB; 2OBH; X-ray; 1.80 A; C/D=847-863.
+DR   PDB; 2RVB; NMR; -; A=109-156.
+DR   PDBsum; 2A4J; -.
+DR   PDBsum; 2GGM; -.
+DR   PDBsum; 2OBH; -.
+DR   PDBsum; 2RVB; -.
+DR   SMR; Q01831; -.
+DR   BioGrid; 113345; 85.
+DR   DIP; DIP-31225N; -.
+DR   IntAct; Q01831; 64.
+DR   MINT; Q01831; -.
+DR   STRING; 9606.ENSP00000285021; -.
+DR   iPTMnet; Q01831; -.
+DR   PhosphoSitePlus; Q01831; -.
+DR   SwissPalm; Q01831; -.
+DR   BioMuta; XPC; -.
+DR   DMDM; 296453081; -.
+DR   EPD; Q01831; -.
+DR   jPOST; Q01831; -.
+DR   MassIVE; Q01831; -.
+DR   PaxDb; Q01831; -.
+DR   PeptideAtlas; Q01831; -.
+DR   PRIDE; Q01831; -.
+DR   ProteomicsDB; 19176; -.
+DR   ProteomicsDB; 20470; -.
+DR   ProteomicsDB; 58003; -. [Q01831-1]
+DR   Ensembl; ENST00000285021; ENSP00000285021; ENSG00000154767. [Q01831-1]
+DR   Ensembl; ENST00000476581; ENSP00000424548; ENSG00000154767. [Q01831-3]
+DR   GeneID; 7508; -.
+DR   KEGG; hsa:7508; -.
+DR   UCSC; uc062gzd.1; human. [Q01831-1]
+DR   CTD; 7508; -.
+DR   DisGeNET; 7508; -.
+DR   GeneCards; XPC; -.
+DR   GeneReviews; XPC; -.
+DR   HGNC; HGNC:12816; XPC.
+DR   HPA; CAB009932; -.
+DR   HPA; HPA035707; -.
+DR   HPA; HPA069673; -.
+DR   MalaCards; XPC; -.
+DR   MIM; 278720; phenotype.
+DR   MIM; 613208; gene.
+DR   neXtProt; NX_Q01831; -.
+DR   OpenTargets; ENSG00000154767; -.
+DR   Orphanet; 910; Xeroderma pigmentosum.
+DR   PharmGKB; PA37413; -.
+DR   eggNOG; KOG2179; Eukaryota.
+DR   eggNOG; COG5535; LUCA.
+DR   GeneTree; ENSGT00390000005194; -.
+DR   HOGENOM; HOG000124671; -.
+DR   InParanoid; Q01831; -.
+DR   KO; K10838; -.
+DR   OMA; EEKWVCV; -.
+DR   OrthoDB; 750482at2759; -.
+DR   PhylomeDB; Q01831; -.
+DR   TreeFam; TF101242; -.
+DR   Reactome; R-HSA-3108214; SUMOylation of DNA damage response and repair proteins.
+DR   Reactome; R-HSA-5696394; DNA Damage Recognition in GG-NER.
+DR   Reactome; R-HSA-5696395; Formation of Incision Complex in GG-NER.
+DR   SIGNOR; Q01831; -.
+DR   ChiTaRS; XPC; human.
+DR   EvolutionaryTrace; Q01831; -.
+DR   GeneWiki; XPC_(gene); -.
+DR   GenomeRNAi; 7508; -.
+DR   Pharos; Q01831; -.
+DR   PRO; PR:Q01831; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; ENSG00000154767; Expressed in 230 organ(s), highest expression level in left lobe of thyroid gland.
+DR   ExpressionAtlas; Q01831; baseline and differential.
+DR   Genevisible; Q01831; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0005739; C:mitochondrion; IDA:HPA.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0000109; C:nucleotide-excision repair complex; IDA:UniProtKB.
+DR   GO; GO:0000111; C:nucleotide-excision repair factor 2 complex; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0090734; C:site of DNA damage; IEA:Ensembl.
+DR   GO; GO:0071942; C:XPC complex; IDA:UniProtKB.
+DR   GO; GO:0000405; F:bubble DNA binding; TAS:UniProtKB.
+DR   GO; GO:0003684; F:damaged DNA binding; IDA:UniProtKB.
+DR   GO; GO:0000404; F:heteroduplex DNA loop binding; TAS:UniProtKB.
+DR   GO; GO:0044877; F:protein-containing complex binding; IDA:UniProtKB.
+DR   GO; GO:0003697; F:single-stranded DNA binding; IDA:UniProtKB.
+DR   GO; GO:0006281; P:DNA repair; TAS:ProtInc.
+DR   GO; GO:0070911; P:global genome nucleotide-excision repair; TAS:Reactome.
+DR   GO; GO:0031573; P:intra-S DNA damage checkpoint; IEA:Ensembl.
+DR   GO; GO:0006298; P:mismatch repair; IBA:GO_Central.
+DR   GO; GO:0006289; P:nucleotide-excision repair; IDA:UniProtKB.
+DR   GO; GO:0000715; P:nucleotide-excision repair, DNA damage recognition; IDA:UniProtKB.
+DR   GO; GO:0000717; P:nucleotide-excision repair, DNA duplex unwinding; TAS:Reactome.
+DR   GO; GO:0006294; P:nucleotide-excision repair, preincision complex assembly; TAS:Reactome.
+DR   GO; GO:0000720; P:pyrimidine dimer repair by nucleotide-excision repair; IEA:Ensembl.
+DR   GO; GO:1901990; P:regulation of mitotic cell cycle phase transition; IMP:UniProtKB.
+DR   GO; GO:0010996; P:response to auditory stimulus; IEA:Ensembl.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0010224; P:response to UV-B; IEA:Ensembl.
+DR   GO; GO:0070914; P:UV-damage excision repair; IDA:CACAO.
+DR   GO; GO:1990731; P:UV-damage excision repair, DNA incision; IEA:Ensembl.
+DR   DisProt; DP01626; -.
+DR   Gene3D; 3.30.70.2460; -; 1.
+DR   Gene3D; 3.90.260.10; -; 1.
+DR   InterPro; IPR018327; BHD_2.
+DR   InterPro; IPR004583; DNA_repair_Rad4.
+DR   InterPro; IPR018026; DNA_repair_Rad4_subgr.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR018325; Rad4/PNGase_transGLS-fold.
+DR   InterPro; IPR018326; Rad4_beta-hairpin_dom1.
+DR   InterPro; IPR018328; Rad4_beta-hairpin_dom3.
+DR   InterPro; IPR042488; Rad4_BHD3_sf.
+DR   InterPro; IPR036985; Transglutaminase-like_sf.
+DR   PANTHER; PTHR12135; PTHR12135; 1.
+DR   Pfam; PF10403; BHD_1; 1.
+DR   Pfam; PF10404; BHD_2; 1.
+DR   Pfam; PF10405; BHD_3; 1.
+DR   Pfam; PF03835; Rad4; 1.
+DR   SMART; SM01030; BHD_1; 1.
+DR   SMART; SM01031; BHD_2; 1.
+DR   SMART; SM01032; BHD_3; 1.
+DR   SUPFAM; SSF54001; SSF54001; 1.
+DR   TIGRFAMs; TIGR00605; rad4; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Chromosome; Complete proteome;
+KW   Cytoplasm; Direct protein sequencing; Disease mutation; DNA damage;
+KW   DNA repair; DNA-binding; Isopeptide bond; Nucleus; Phosphoprotein;
+KW   Polymorphism; Reference proteome; Transcription;
+KW   Transcription regulation; Ubl conjugation; Xeroderma pigmentosum.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:8168482}.
+FT   CHAIN         2    940       DNA repair protein complementing XP-C
+FT                                cells.
+FT                                /FTId=PRO_0000218293.
+FT   REGION      496    734       Interaction with RAD23B.
+FT   REGION      607    766       Minimal sensor domain involved in damage
+FT                                recognition.
+FT   REGION      607    741       DNA-binding; preference for heteroduplex
+FT                                DNA.
+FT   REGION      767    831       DNA-binding; preference for single
+FT                                stranded DNA; required for formation of
+FT                                stable nucleoprotein complex.
+FT   REGION      816    940       Interaction with ERCC2 and GTF2H1.
+FT                                {ECO:0000269|PubMed:12509233}.
+FT   REGION      847    866       Interaction with CETN2.
+FT   MOTIF       390    395       Nuclear localization signal.
+FT                                {ECO:0000255}.
+FT   COMPBIAS     30    177       Glu-rich (acidic).
+FT   COMPBIAS     30     34       Poly-Glu.
+FT   COMPBIAS    124    130       Poly-Glu.
+FT   COMPBIAS    359    395       Lys-rich (basic).
+FT   COMPBIAS    408    431       Arg/Lys-rich (basic).
+FT   COMPBIAS    432    461       Asp/Glu-rich (acidic).
+FT   COMPBIAS    466    493       Arg/Lys-rich (basic).
+FT   COMPBIAS    501    507       Poly-Ser.
+FT   MOD_RES      94     94       Phosphoserine.
+FT                                {ECO:0000244|PubMed:17081983,
+FT                                ECO:0000244|PubMed:18669648,
+FT                                ECO:0000244|PubMed:20068231,
+FT                                ECO:0000244|PubMed:21406692,
+FT                                ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     129    129       Phosphoserine.
+FT                                {ECO:0000244|PubMed:17081983,
+FT                                ECO:0000244|PubMed:20068231}.
+FT   MOD_RES     140    140       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     169    169       Phosphothreonine.
+FT                                {ECO:0000244|PubMed:18669648}.
+FT   MOD_RES     397    397       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     398    398       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     399    399       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     453    453       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     460    460       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     876    876       Phosphothreonine.
+FT                                {ECO:0000244|PubMed:21406692}.
+FT   MOD_RES     883    883       Phosphoserine.
+FT                                {ECO:0000244|PubMed:18669648,
+FT                                ECO:0000244|PubMed:20068231,
+FT                                ECO:0000244|PubMed:21406692,
+FT                                ECO:0000244|PubMed:23186163,
+FT                                ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     884    884       Phosphoserine.
+FT                                {ECO:0000244|PubMed:18669648,
+FT                                ECO:0000244|PubMed:20068231,
+FT                                ECO:0000244|PubMed:21406692,
+FT                                ECO:0000244|PubMed:23186163,
+FT                                ECO:0000244|PubMed:24275569}.
+FT   MOD_RES     891    891       Phosphoserine.
+FT                                {ECO:0000244|PubMed:18669648}.
+FT   MOD_RES     903    903       Phosphoserine.
+FT                                {ECO:0000244|PubMed:24275569}.
+FT   CROSSLNK     41     41       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000244|PubMed:28112733}.
+FT   CROSSLNK     81     81       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000244|PubMed:25755297,
+FT                                ECO:0000244|PubMed:25772364,
+FT                                ECO:0000244|PubMed:28112733}.
+FT   CROSSLNK     89     89       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000244|PubMed:28112733}.
+FT   CROSSLNK    161    161       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000244|PubMed:28112733}.
+FT   VAR_SEQ     136    172       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_046344.
+FT   VAR_SEQ     138    140       ELS -> VKR (in isoform 3).
+FT                                {ECO:0000303|PubMed:24722188}.
+FT                                /FTId=VSP_055890.
+FT   VAR_SEQ     141    940       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:24722188}.
+FT                                /FTId=VSP_055891.
+FT   VARIANT      16     16       L -> V (in dbSNP:rs1870134).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018894.
+FT   VARIANT      48     48       L -> F (in dbSNP:rs2229089).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018895.
+FT   VARIANT      86     86       K -> R (in dbSNP:rs3731063).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018896.
+FT   VARIANT     287    287       F -> C (in dbSNP:rs35629274).
+FT                                /FTId=VAR_057475.
+FT   VARIANT     314    314       R -> Q (in dbSNP:rs3731126).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018897.
+FT   VARIANT     334    334       P -> H (in XP-C; severe; does not affect
+FT                                interaction with KAT2A and transcription
+FT                                coactivator activity in absence of DNA
+FT                                damage; dbSNP:rs74737358).
+FT                                {ECO:0000269|PubMed:29973595,
+FT                                ECO:0000269|PubMed:8298653}.
+FT                                /FTId=VAR_005846.
+FT   VARIANT     492    492       R -> H (in dbSNP:rs2227999).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018898.
+FT   VARIANT     499    499       A -> V (in dbSNP:rs2228000).
+FT                                {ECO:0000269|PubMed:12177305,
+FT                                ECO:0000269|PubMed:8168482,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018899.
+FT   VARIANT     511    511       K -> Q (in dbSNP:rs6413541).
+FT                                /FTId=VAR_059963.
+FT   VARIANT     513    513       M -> I (in dbSNP:rs3731130).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018900.
+FT   VARIANT     514    514       C -> S (in dbSNP:rs3731130).
+FT                                /FTId=VAR_057476.
+FT   VARIANT     632    632       Q -> E (in dbSNP:rs3731139).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018901.
+FT   VARIANT     671    671       R -> H (in dbSNP:rs3731140).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018902.
+FT   VARIANT     689    689       T -> M (in dbSNP:rs3731152).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018903.
+FT   VARIANT     690    690       W -> S (in XP-C; diminishes repair
+FT                                activity and impairs DNA binding).
+FT                                {ECO:0000269|PubMed:10766188,
+FT                                ECO:0000269|PubMed:17355181,
+FT                                ECO:0000269|PubMed:17682058,
+FT                                ECO:0000269|PubMed:19609301}.
+FT                                /FTId=VAR_064039.
+FT   VARIANT     697    697       V -> VV (in XP-C; mild).
+FT                                {ECO:0000269|PubMed:8298653}.
+FT                                /FTId=VAR_005847.
+FT   VARIANT     928    928       K -> Q (in dbSNP:rs3731177).
+FT                                {ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_018904.
+FT   VARIANT     939    939       Q -> K (in dbSNP:rs2228001).
+FT                                {ECO:0000269|PubMed:12177305,
+FT                                ECO:0000269|PubMed:8168482,
+FT                                ECO:0000269|Ref.4}.
+FT                                /FTId=VAR_005848.
+FT   MUTAGEN     531    531       W->A: Slightly diminishes repair activity
+FT                                and sligtly impairs DNA binding.
+FT                                {ECO:0000269|PubMed:19609301}.
+FT   MUTAGEN     542    542       W->A: Slightly diminishes repair activity
+FT                                and sligtly impairs DNA binding.
+FT                                {ECO:0000269|PubMed:19609301}.
+FT   MUTAGEN     733    733       F->A: Diminishes repair activity and
+FT                                impairs DNA binding.
+FT                                {ECO:0000269|PubMed:17355181,
+FT                                ECO:0000269|PubMed:19609301}.
+FT   MUTAGEN     754    754       N->A: Reduces DNA repair activity;
+FT                                abolishes single-stranded DNA binding;
+FT                                reduces binding to homoduplex DNA;
+FT                                reduces localization at DNA damaged foci.
+FT                                {ECO:0000269|PubMed:20649465}.
+FT   MUTAGEN     755    755       E->K: Reduces nuclear mobility and
+FT                                impairs repair activity.
+FT                                {ECO:0000269|PubMed:19609301}.
+FT   MUTAGEN     756    756       F->A: Reduces DNA repair activity;
+FT                                abolishes single-stranded DNA binding;
+FT                                reduces binding to homoduplex DNA;
+FT                                reduces localization at DNA damaged foci.
+FT                                {ECO:0000269|PubMed:20649465}.
+FT   MUTAGEN     797    797       F->A: Reduces DNA repair activity;
+FT                                abolishes single-stranded DNA binding;
+FT                                reduces binding to homoduplex DNA;
+FT                                reduces localization at DNA damaged foci;
+FT                                decreases recruitment of TFIIH complex to
+FT                                lesion sites.
+FT                                {ECO:0000269|PubMed:20649465}.
+FT   MUTAGEN     799    799       F->A: Reduces DNA repair activity;
+FT                                abolishes single-stranded DNA binding;
+FT                                reduces binding to homoduplex DNA;
+FT                                greatly reduces localization at DNA
+FT                                damaged foci; decreases recruitment of
+FT                                TFIIH complex to lesion sites.
+FT                                {ECO:0000269|PubMed:20649465}.
+FT   MUTAGEN     848    848       W->A: Reduces NER activity and abolishes
+FT                                interaction with CETN2; when associated
+FT                                with A-851 and A-855.
+FT                                {ECO:0000269|PubMed:15964821}.
+FT   MUTAGEN     851    851       L->A: Reduces NER activity and abolishes
+FT                                interaction with CETN2; when associated
+FT                                with A-848 and A-855.
+FT                                {ECO:0000269|PubMed:15964821}.
+FT   MUTAGEN     855    855       L->A: Reduces NER activity and abolishes
+FT                                interaction with CETN2; when associated
+FT                                with A-848 and A-851.
+FT                                {ECO:0000269|PubMed:15964821}.
+FT   CONFLICT    135    135       E -> Q (in Ref. 5; BAG58555).
+FT                                {ECO:0000305}.
+FT   CONFLICT    489    489       G -> E (in Ref. 5; BAG58555).
+FT                                {ECO:0000305}.
+FT   TURN        120    123       {ECO:0000244|PDB:2RVB}.
+FT   STRAND      124    126       {ECO:0000244|PDB:2RVB}.
+FT   STRAND      134    137       {ECO:0000244|PDB:2RVB}.
+FT   HELIX       150    153       {ECO:0000244|PDB:2RVB}.
+FT   HELIX       848    861       {ECO:0000244|PDB:2OBH}.
+SQ   SEQUENCE   940 AA;  105953 MW;  2F8C80D43FAA1256 CRC64;
+     MARKRAAGGE PRGRELRSQK SKAKSKARRE EEEEDAFEDE KPPKKSLLSK VSQGKRKRGC
+     SHPGGSADGP AKKKVAKVTV KSENLKVIKD EALSDGDDLR DFPSDLKKAH HLKRGATMNE
+     DSNEEEEESE NDWEEVEELS EPVLGDVRES TAFSRSLLPV KPVEIEIETP EQAKTRERSE
+     KIKLEFETYL RRAMKRFNKG VHEDTHKVHL LCLLANGFYR NNICSQPDLH AIGLSIIPAR
+     FTRVLPRDVD TYYLSNLVKW FIGTFTVNAE LSASEQDNLQ TTLERRFAIY SARDDEELVH
+     IFLLILRALQ LLTRLVLSLQ PIPLKSATAK GKKPSKERLT ADPGGSSETS SQVLENHTKP
+     KTSKGTKQEE TFAKGTCRPS AKGKRNKGGR KKRSKPSSSE EDEGPGDKQE KATQRRPHGR
+     ERRVASRVSY KEESGSDEAG SGSDFELSSG EASDPSDEDS EPGPPKQRKA PAPQRTKAGS
+     KSASRTHRGS HRKDPSLPAA SSSSSSSKRG KKMCSDGEKA EKRSIAGIDQ WLEVFCEQEE
+     KWVCVDCVHG VVGQPLTCYK YATKPMTYVV GIDSDGWVRD VTQRYDPVWM TVTRKCRVDA
+     EWWAETLRPY QSPFMDREKK EDLEFQAKHM DQPLPTAIGL YKNHPLYALK RHLLKYEAIY
+     PETAAILGYC RGEAVYSRDC VHTLHSRDTW LKKARVVRLG EVPYKMVKGF SNRARKARLA
+     EPQLREENDL GLFGYWQTEE YQPPVAVDGK VPRNEFGNVY LFLPSMMPIG CVQLNLPNLH
+     RVARKLDIDC VQAITGFDFH GGYSHPVTDG YIVCEEFKDV LLTAWENEQA VIERKEKEKK
+     EKRALGNWKL LAKGLLIRER LKRRYGPKSE AAAPHTDAGG GLSSDEEEGT SSQAEAARIL
+     AASWPQNRED EEKQKLKGGP KKTKREKKAA ASHLFPFEQL
+//

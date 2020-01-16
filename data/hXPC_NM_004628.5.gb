@@ -1,0 +1,478 @@
+LOCUS       NM_004628               3650 bp    mRNA    linear   PRI 16-DEC-2019
+DEFINITION  Homo sapiens XPC complex subunit, DNA damage recognition and repair
+            factor (XPC), transcript variant 1, mRNA.
+ACCESSION   NM_004628
+VERSION     NM_004628.5
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3650)
+  AUTHORS   Qasemian-Talgard A and Saadat M.
+  TITLE     Association between three common genetic polymorphisms of XPC and
+            susceptibility to heroin dependency
+  JOURNAL   Gene 724, 144153 (2020)
+   PUBMED   31610221
+  REMARK    GeneRIF: Association of XPC genetic polymorphisms with heroin
+            dependence and age of first use.
+REFERENCE   2  (bases 1 to 3650)
+  AUTHORS   Taghipour N, Saadat I and Saadat M.
+  TITLE     Association between polymorphisms of Xeroderma pigmentosum
+            complementation group C gene (XPC) and susceptibility to
+            schizophrenia
+  JOURNAL   Gene 695, 99-100 (2019)
+   PUBMED   30769138
+  REMARK    GeneRIF: The relationship between three polymorphisms of the XPC
+            (MIM: 613208) and the risk of schizophrenia is investigated. A
+            total of 361 schizophrenia cases and 360 healthy controls were
+            included in the study. Statistical analysis revealed that the
+            Ala/Val genotype and the carriers of the Val allele were negatively
+            associated with the risk of schizophrenia
+REFERENCE   3  (bases 1 to 3650)
+  AUTHORS   Teng X, Fan XF, Li Q, Liu S, Wu DY, Wang SY, Shi Y and Dong M.
+  TITLE     XPC inhibition rescues cisplatin resistance via the Akt/mTOR
+            signaling pathway in A549/DDP lung adenocarcinoma cells
+  JOURNAL   Oncol. Rep. 41 (3), 1875-1882 (2019)
+   PUBMED   30628719
+  REMARK    GeneRIF: Study results demonstrated that XPC expression was linked
+            with cisplatin resistance in lung cancer cells and that the
+            reversal of the resistance was mainly mediated by the Akt/mTOR
+            signaling pathway.
+REFERENCE   4  (bases 1 to 3650)
+  AUTHORS   Shivji MK, Eker AP and Wood RD.
+  TITLE     DNA repair defect in xeroderma pigmentosum group C and
+            complementing factor from HeLa cells
+  JOURNAL   J. Biol. Chem. 269 (36), 22749-22757 (1994)
+   PUBMED   8077226
+REFERENCE   5  (bases 1 to 3650)
+  AUTHORS   Legerski RJ, Liu P, Li L, Peterson CA, Zhao Y, Leach RJ, Naylor SL
+            and Siciliano MJ.
+  TITLE     Assignment of xeroderma pigmentosum group C (XPC) gene to
+            chromosome 3p25
+  JOURNAL   Genomics 21 (1), 266-269 (1994)
+   PUBMED   8088800
+REFERENCE   6  (bases 1 to 3650)
+  AUTHORS   Masutani C, Sugasawa K, Yanagisawa J, Sonoyama T, Ui M, Enomoto T,
+            Takio K, Tanaka K, van der Spek PJ, Bootsma D et al.
+  TITLE     Purification and cloning of a nucleotide excision repair complex
+            involving the xeroderma pigmentosum group C protein and a human
+            homologue of yeast RAD23
+  JOURNAL   EMBO J. 13 (8), 1831-1843 (1994)
+   PUBMED   8168482
+REFERENCE   7  (bases 1 to 3650)
+  AUTHORS   Kraemer,K.H. and DiGiovanna,J.J.
+  TITLE     Xeroderma Pigmentosum
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301571
+REFERENCE   8  (bases 1 to 3650)
+  AUTHORS   Legerski,R. and Peterson,C.
+  TITLE     Expression cloning of a human DNA repair gene involved in xeroderma
+            pigmentosum group C
+  JOURNAL   Nature 360 (6404), 610 (1992)
+   PUBMED   1461286
+  REMARK    Correction to:[Nature. 1992 Sep 3;359(6390):70-3. PMID: 1522891]
+REFERENCE   9  (bases 1 to 3650)
+  AUTHORS   Legerski R and Peterson C.
+  TITLE     Expression cloning of a human DNA repair gene involved in xeroderma
+            pigmentosum group C
+  JOURNAL   Nature 359 (6390), 70-73 (1992)
+   PUBMED   1522891
+  REMARK    Erratum:[Nature. 1992 Dec 10;360(6404):610. PMID: 1461286]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC093495.2, FJ695192.1 and
+            FJ695191.1.
+            On Nov 30, 2019 this sequence version replaced NM_004628.4.
+            
+            Summary: The protein encoded by this gene is a key component of the
+            XPC complex, which plays an important role in the early steps of
+            global genome nucleotide excision repair (NER). The encoded protein
+            is important for damage sensing and DNA binding, and shows a
+            preference for single-stranded DNA. Mutations in this gene or some
+            other NER components can result in Xeroderma pigmentosum, a rare
+            autosomal recessive disorder characterized by increased sensitivity
+            to sunlight with the development of carcinomas at an early age.
+            Alternatively spliced transcript variants have been found for this
+            gene. [provided by RefSeq, Aug 2017].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC016620.1, D21089.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-136               AC093495.2         81540-81675
+            137-332             AC093495.2         87079-87274
+            333-445             AC093495.2         89591-89703
+            446-569             AC093495.2         91761-91884
+            570-654             AC093495.2         92888-92972
+            655-812             AC093495.2         94556-94713
+            813-933             AC093495.2         95208-95328
+            934-1023            AC093495.2         100311-100400
+            1024-1348           AC093495.2         101249-101573
+            1349-1631           FJ695192.1         1-283               c
+            1632-1905           AC093495.2         101859-102132
+            1906-2066           FJ695191.1         84-244              c
+            2067-2148           AC093495.2         107728-107809
+            2149-2283           AC093495.2         111196-111330
+            2284-2453           AC093495.2         111413-111582
+            2454-2547           AC093495.2         112143-112236
+            2548-2637           AC093495.2         112765-112854
+            2638-3650           AC093495.2         113985-114997
+FEATURES             Location/Qualifiers
+     source          1..3650
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p25.1"
+     gene            1..3650
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /note="XPC complex subunit, DNA damage recognition and
+                     repair factor"
+                     /db_xref="GeneID:7508"
+                     /db_xref="HGNC:HGNC:12816"
+                     /db_xref="MIM:613208"
+     exon            1..136
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             34..2856
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /note="mutant xeroderma pigmentosum group C; xeroderma
+                     pigmentosum, complementation group C"
+                     /codon_start=1
+                     /product="DNA repair protein complementing XP-C cells"
+                     /protein_id="NP_004619.3"
+                     /db_xref="CCDS:CCDS46763.1"
+                     /db_xref="GeneID:7508"
+                     /db_xref="HGNC:HGNC:12816"
+                     /db_xref="MIM:613208"
+                     /translation="MARKRAAGGEPRGRELRSQKSKAKSKARREEEEEDAFEDEKPPK
+                     KSLLSKVSQGKRKRGCSHPGGSADGPAKKKVAKVTVKSENLKVIKDEALSDGDDLRDF
+                     PSDLKKAHHLKRGATMNEDSNEEEEESENDWEEVEELSEPVLGDVRESTAFSRSLLPV
+                     KPVEIEIETPEQAKTRERSEKIKLEFETYLRRAMKRFNKGVHEDTHKVHLLCLLANGF
+                     YRNNICSQPDLHAIGLSIIPARFTRVLPRDVDTYYLSNLVKWFIGTFTVNAELSASEQ
+                     DNLQTTLERRFAIYSARDDEELVHIFLLILRALQLLTRLVLSLQPIPLKSATAKGKKP
+                     SKERLTADPGGSSETSSQVLENHTKPKTSKGTKQEETFAKGTCRPSAKGKRNKGGRKK
+                     RSKPSSSEEDEGPGDKQEKATQRRPHGRERRVASRVSYKEESGSDEAGSGSDFELSSG
+                     EASDPSDEDSEPGPPKQRKAPAPQRTKAGSKSASRTHRGSHRKDPSLPAASSSSSSSK
+                     RGKKMCSDGEKAEKRSIAGIDQWLEVFCEQEEKWVCVDCVHGVVGQPLTCYKYATKPM
+                     TYVVGIDSDGWVRDVTQRYDPVWMTVTRKCRVDAEWWAETLRPYQSPFMDREKKEDLE
+                     FQAKHMDQPLPTAIGLYKNHPLYALKRHLLKYEAIYPETAAILGYCRGEAVYSRDCVH
+                     TLHSRDTWLKKARVVRLGEVPYKMVKGFSNRARKARLAEPQLREENDLGLFGYWQTEE
+                     YQPPVAVDGKVPRNEFGNVYLFLPSMMPIGCVQLNLPNLHRVARKLDIDCVQAITGFD
+                     FHGGYSHPVTDGYIVCEEFKDVLLTAWENEQAVIERKEKEKKEKRALGNWKLLAKGLL
+                     IRERLKRRYGPKSEAAAPHTDAGGGLSSDEEEGTSSQAEAARILAASWPQNREDEEKQ
+                     KLKGGPKKTKREKKAAASHLFPFEQL"
+     misc_feature    313..315
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:18669648, ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    418..420
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:20068231}; propagated from
+                     UniProtKB/Swiss-Prot (Q01831.4); phosphorylation site"
+     misc_feature    451..453
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    538..540
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1201..1218
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: Nuclear localization signal. {ECO:0000255}"
+     misc_feature    1222..1224
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1225..1227
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1228..1230
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1390..1392
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1411..1413
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    1519..2235
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: Interaction with RAD23B"
+     misc_feature    1852..2331
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: Minimal sensor domain involved in damage
+                     recognition"
+     misc_feature    1852..2256
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: DNA-binding, preference for heteroduplex DNA"
+     misc_feature    2332..2526
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: DNA-binding, preference for single stranded DNA,
+                     required for formation of stable nucleoprotein complex"
+     misc_feature    2479..2853
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: Interaction with ERCC2 and GTF2H1.
+                     {ECO:0000269|PubMed:12509233}"
+     misc_feature    2572..2631
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     Region: Interaction with CETN2"
+     misc_feature    2659..2661
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:21406692};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    2680..2682
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    2683..2685
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692,
+                     ECO:0000244|PubMed:23186163, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    2704..2706
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     misc_feature    2740..2742
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (Q01831.4);
+                     phosphorylation site"
+     exon            137..332
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            333..445
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            446..569
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            570..654
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            655..812
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            813..933
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            934..1023
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1024..1905
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1906..2066
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2067..2148
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2149..2283
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2284..2453
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2454..2547
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2548..2637
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2638..3650
+                     /gene="XPC"
+                     /gene_synonym="p125; RAD4; XP3; XPCC"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 actcgcgaag tggaatttgc ccagacaagc aacatggctc ggaaacgcgc ggccggcggg
+       61 gagccgcggg gacgcgaact gcgcagccag aaatccaagg ccaagagcaa ggcccggcgt
+      121 gaggaggagg aggaggatgc ctttgaagat gagaaacccc caaagaagag ccttctctcc
+      181 aaagtttcac aaggaaagag gaaaagaggc tgcagtcatc ctgggggttc agcagatggt
+      241 ccagcaaaaa agaaagtggc caaggtgact gttaaatctg aaaacctcaa ggttataaag
+      301 gatgaagccc tcagcgatgg ggatgacctc agggactttc caagtgacct caagaaggca
+      361 caccatctga agagaggggc taccatgaat gaagacagca atgaagaaga ggaagaaagt
+      421 gaaaatgatt gggaagaggt tgaagaactt agtgagcctg tgctgggtga cgtgagagaa
+      481 agtacagcct tctctcgatc tcttctgcct gtgaagccag tggagataga gattgaaacg
+      541 ccagagcagg cgaagacaag agaaagaagt gaaaagataa aactggagtt tgagacatat
+      601 cttcggaggg cgatgaaacg tttcaataaa ggggtccatg aggacacaca caaggttcac
+      661 cttctctgcc tgctagcaaa tggcttctat cgaaataaca tctgcagcca gccagatctg
+      721 catgctattg gcctgtccat catcccagcc cgctttacca gagtgctgcc tcgagatgtg
+      781 gacacctact acctctcaaa cctggtgaag tggttcattg gaacatttac agttaatgca
+      841 gaactttcag ccagtgaaca agataacctg cagactacat tggaaaggag atttgctatt
+      901 tactctgctc gagatgatga ggaattggtc catatattct tactgattct ccgggctctg
+      961 cagctcttga cccggctggt attgtctcta cagccaattc ctctgaagtc agcaacagca
+     1021 aagggaaaga aaccttccaa ggaaagattg actgcggatc caggaggctc ctcagaaact
+     1081 tccagccaag ttctagaaaa ccacaccaaa ccaaagacca gcaaaggaac caaacaagag
+     1141 gaaacctttg ctaagggcac ctgcaggcca agtgccaaag ggaagaggaa caagggaggc
+     1201 agaaagaaac ggagcaagcc ctcctccagc gaggaagatg agggcccagg agacaagcag
+     1261 gagaaggcaa cccagcgacg tccgcatggc cgggagcggc gggtggcctc cagggtgtct
+     1321 tataaagagg agagtgggag tgatgaggct ggcagcggct ctgattttga gctctccagt
+     1381 ggagaagcct ctgatccctc tgatgaggat tccgaacctg gccctccaaa gcagaggaaa
+     1441 gcccccgctc ctcagaggac aaaggctggg tccaagagtg cctccaggac ccatcgtggg
+     1501 agccatcgta aggacccaag cttgccagcg gcatcctcaa gctcttcaag cagtaaaaga
+     1561 ggcaagaaaa tgtgcagcga tggtgagaag gcagaaaaaa gaagcatagc tggtatagac
+     1621 cagtggctag aggtgttctg tgagcaggag gaaaagtggg tatgtgtaga ctgtgtgcac
+     1681 ggtgtggtgg gccagcctct gacctgttac aagtacgcca ccaagcccat gacctatgtg
+     1741 gtgggcattg acagtgacgg ctgggtccga gatgtcacac agaggtacga cccagtctgg
+     1801 atgacagtga cccgcaagtg ccgggttgat gctgagtggt gggccgagac cttgagacca
+     1861 taccagagcc catttatgga cagggagaag aaagaagact tggagtttca ggctaaacac
+     1921 atggaccagc ctttgcccac tgccattggc ttatataaga accaccctct gtatgccctg
+     1981 aagcggcatc tcctgaaata tgaggccatc tatcccgaga cagctgccat ccttgggtat
+     2041 tgtcgtggag aagcggtcta ctccagggat tgtgtgcaca ctctgcattc cagggacacg
+     2101 tggctgaaga aagcaagagt ggtgaggctt ggagaagtac cctacaagat ggtgaaaggc
+     2161 ttttctaacc gtgctcggaa agcccgactt gctgagcccc agctgcggga agaaaatgac
+     2221 ctgggcctgt ttggctactg gcagacagag gagtatcagc ccccagtggc cgtggacggg
+     2281 aaggtgcccc ggaacgagtt tgggaatgtg tacctcttcc tgcccagcat gatgcctatt
+     2341 ggctgtgtcc agctgaacct gcccaatcta caccgcgtgg cccgcaagct ggacatcgac
+     2401 tgtgtccagg ccatcactgg ctttgatttc catggcggct actcccatcc cgtgactgat
+     2461 ggatacatcg tctgcgagga attcaaagac gtgctcctga ctgcctggga aaatgagcag
+     2521 gcagtcattg aaaggaagga gaaggagaaa aaggagaagc gggctctagg gaactggaag
+     2581 ttgctggcca aaggtctgct catcagggag aggctgaagc gtcgctacgg gcccaagagt
+     2641 gaggcagcag ctccccacac agatgcagga ggtggactct cttctgatga agaggagggg
+     2701 accagctctc aagcagaagc ggccaggata ctggctgcct cctggcctca aaaccgagaa
+     2761 gatgaagaaa agcagaagct gaagggtggg cccaagaaga ccaaaaggga aaagaaagca
+     2821 gcagcttccc acctgttccc atttgagcag ctgtgagctg agcgcccact agaggggcac
+     2881 ccaccagttg ctgctgcccc actacaggcc ccacacctgc cctgggcatg cccagcccct
+     2941 ggtggtgggg gcttctctgc tgagaaggca aactgaggca gcatgcacgg aggcggggtc
+     3001 aggggagacg aggccaagct gaggaggtgc tgcaggtccc gtctggctcc agcccttgtc
+     3061 agattcaccc agggtgaagc cttcaaagct ttttgctacc aaagcccact caccctttga
+     3121 gctacagaac actttgctag gagatactct tctgcctcct agacctgttc tttccatctt
+     3181 tagaaacatc agtttttgta tggaagccac cgggagattt ctggatggtg gtgcatccgt
+     3241 gaatgcgctg atcgtttctt ccagttagag tcttcatctg tccgacaagt tcactcgcct
+     3301 cggttgcgga cctaggacca tttctctgca ggccacttac cttcccctga gtcaggctta
+     3361 ctaatgctgc cctcactgcc tctttgcagt aggggagaga gcagagaagt acaggtcatc
+     3421 tgctgggatc tagttttcca agtaacattt tgtggtgaca gaagcctaaa aaaagctaaa
+     3481 atcaggaaag aaaaggaaaa atacgaattg aaaattaagg aaatgttagt aaaatagatg
+     3541 agtgttaaac tagattgtat tcattactag ataaaatgta taaagctctc tgtactaagg
+     3601 agaaatgact tttataacat tttgagaaaa taataaagca tttatctaaa
+//
+

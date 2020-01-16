@@ -1,0 +1,4 @@
+prefix,name,species,ncbi_transcript,ncbi_protein,uniprot_protein
+h,XPC,human,NM_004628,NP_004619,Q01831
+m,Xpc,mouse,NM_009531,NP_033557,P51612
+r,Xpc,rat,NM_001107874,NP_001101344,D4A3D8

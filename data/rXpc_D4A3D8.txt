@@ -1,0 +1,215 @@
+ID   D4A3D8_RAT              Unreviewed;       933 AA.
+AC   D4A3D8;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   20-APR-2010, sequence version 1.
+DT   13-NOV-2019, entry version 79.
+DE   SubName: Full=XPC complex subunit, DNA damage recognition and repair factor {ECO:0000313|Ensembl:ENSRNOP00000011490};
+DE   SubName: Full=Xeroderma pigmentosum, complementation group C (Predicted) {ECO:0000313|EMBL:EDL91370.1};
+GN   Name=Xpc {ECO:0000313|Ensembl:ENSRNOP00000011490,
+GN   ECO:0000313|RGD:1305760};
+GN   Synonyms=Xpc_predicted {ECO:0000313|EMBL:EDL91370.1};
+GN   ORFNames=rCG_56286 {ECO:0000313|EMBL:EDL91370.1};
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116 {ECO:0000313|Ensembl:ENSRNOP00000011490, ECO:0000313|Proteomes:UP000002494};
+RN   [1] {ECO:0000313|Ensembl:ENSRNOP00000011490, ECO:0000313|Proteomes:UP000002494}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Brown Norway {ECO:0000313|Ensembl:ENSRNOP00000011490,
+RC   ECO:0000313|Proteomes:UP000002494};
+RX   PubMed=15057822; DOI=10.1038/nature02426;
+RG   Rat Genome Sequencing Project Consortium;
+RA   Gibbs R.A., Weinstock G.M., Metzker M.L., Muzny D.M., Sodergren E.J.,
+RA   Scherer S., Scott G., Steffen D., Worley K.C., Burch P.E., Okwuonu G.,
+RA   Hines S., Lewis L., Deramo C., Delgado O., Dugan-Rocha S., Miner G.,
+RA   Morgan M., Hawes A., Gill R., Holt R.A., Adams M.D., Amanatides P.G.,
+RA   Baden-Tillson H., Barnstead M., Chin S., Evans C.A., Ferriera S.,
+RA   Fosler C., Glodek A., Gu Z., Jennings D., Kraft C.L., Nguyen T.,
+RA   Pfannkoch C.M., Sitter C., Sutton G.G., Venter J.C., Woodage T.,
+RA   Smith D., Lee H.-M., Gustafson E., Cahill P., Kana A.,
+RA   Doucette-Stamm L., Weinstock K., Fechtel K., Weiss R.B., Dunn D.M.,
+RA   Green E.D., Blakesley R.W., Bouffard G.G., De Jong P.J., Osoegawa K.,
+RA   Zhu B., Marra M., Schein J., Bosdet I., Fjell C., Jones S.,
+RA   Krzywinski M., Mathewson C., Siddiqui A., Wye N., McPherson J.,
+RA   Zhao S., Fraser C.M., Shetty J., Shatsman S., Geer K., Chen Y.,
+RA   Abramzon S., Nierman W.C., Havlak P.H., Chen R., Durbin K.J., Egan A.,
+RA   Ren Y., Song X.-Z., Li B., Liu Y., Qin X., Cawley S., Cooney A.J.,
+RA   D'Souza L.M., Martin K., Wu J.Q., Gonzalez-Garay M.L., Jackson A.R.,
+RA   Kalafus K.J., McLeod M.P., Milosavljevic A., Virk D., Volkov A.,
+RA   Wheeler D.A., Zhang Z., Bailey J.A., Eichler E.E., Tuzun E.,
+RA   Birney E., Mongin E., Ureta-Vidal A., Woodwark C., Zdobnov E.,
+RA   Bork P., Suyama M., Torrents D., Alexandersson M., Trask B.J.,
+RA   Young J.M., Huang H., Wang H., Xing H., Daniels S., Gietzen D.,
+RA   Schmidt J., Stevens K., Vitt U., Wingrove J., Camara F., Mar Alba M.,
+RA   Abril J.F., Guigo R., Smit A., Dubchak I., Rubin E.M., Couronne O.,
+RA   Poliakov A., Huebner N., Ganten D., Goesele C., Hummel O.,
+RA   Kreitler T., Lee Y.-A., Monti J., Schulz H., Zimdahl H.,
+RA   Himmelbauer H., Lehrach H., Jacob H.J., Bromberg S.,
+RA   Gullings-Handley J., Jensen-Seaman M.I., Kwitek A.E., Lazar J.,
+RA   Pasko D., Tonellato P.J., Twigger S., Ponting C.P., Duarte J.M.,
+RA   Rice S., Goodstadt L., Beatson S.A., Emes R.D., Winter E.E.,
+RA   Webber C., Brandt P., Nyakatura G., Adetobi M., Chiaromonte F.,
+RA   Elnitski L., Eswara P., Hardison R.C., Hou M., Kolbe D., Makova K.,
+RA   Miller W., Nekrutenko A., Riemer C., Schwartz S., Taylor J., Yang S.,
+RA   Zhang Y., Lindpaintner K., Andrews T.D., Caccamo M., Clamp M.,
+RA   Clarke L., Curwen V., Durbin R.M., Eyras E., Searle S.M., Cooper G.M.,
+RA   Batzoglou S., Brudno M., Sidow A., Stone E.A., Payseur B.A.,
+RA   Bourque G., Lopez-Otin C., Puente X.S., Chakrabarti K., Chatterji S.,
+RA   Dewey C., Pachter L., Bray N., Yap V.B., Caspi A., Tesler G.,
+RA   Pevzner P.A., Haussler D., Roskin K.M., Baertsch R., Clawson H.,
+RA   Furey T.S., Hinrichs A.S., Karolchik D., Kent W.J., Rosenbloom K.R.,
+RA   Trumbower H., Weirauch M., Cooper D.N., Stenson P.D., Ma B., Brent M.,
+RA   Arumugam M., Shteynberg D., Copley R.R., Taylor M.S., Riethman H.,
+RA   Mudunuri U., Peterson J., Guyer M., Felsenfeld A., Old S., Mockrin S.,
+RA   Collins F.S.;
+RT   "Genome sequence of the Brown Norway rat yields insights into
+RT   mammalian evolution.";
+RL   Nature 428:493-521(2004).
+RN   [2] {ECO:0000313|EMBL:EDL91370.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BN {ECO:0000313|EMBL:EDL91370.1};
+RX   PubMed=15632090; DOI=10.1101/gr.2889405;
+RA   Florea L., Di Francesco V., Miller J., Turner R., Yao A., Harris M.,
+RA   Walenz B., Mobarry C., Merkulov G.V., Charlab R., Dew I., Deng Z.,
+RA   Istrail S., Li P., Sutton G.;
+RT   "Gene and alternative splicing annotation with AIR.";
+RL   Genome Res. 15:54-66(2005).
+RN   [3] {ECO:0000313|EMBL:EDL91370.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BN {ECO:0000313|EMBL:EDL91370.1};
+RA   Mural R.J., Li P.W., Adams M.D., Amanatides P.G., Baden-Tillson H.,
+RA   Barnstead M., Chin S.H., Dew I., Evans C.A., Ferriera S., Flanigan M.,
+RA   Fosler C., Glodek A., Gu Z., Holt R.A., Jennings D., Kraft C.L.,
+RA   Lu F., Nguyen T., Nusskern D.R., Pfannkoch C.M., Sitter C.,
+RA   Sutton G.G., Venter J.C., Wang Z., Woodage T., Zheng X.H., Zhong F.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|Ensembl:ENSRNOP00000011490}
+RP   IDENTIFICATION.
+RC   STRAIN=Brown Norway {ECO:0000313|Ensembl:ENSRNOP00000011490};
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+RN   [5] {ECO:0000213|PubMed:22673903}
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22673903;
+RA   Lundby A., Secher A., Lage K., Nordsborg N.B., Dmytriyev A.,
+RA   Lundby C., Olsen J.V.;
+RT   "Quantitative maps of protein phosphorylation sites across 14
+RT   different rat organs and tissues.";
+RL   Nat. Commun. 3:876-876(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AABR07061424; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH473957; EDL91370.1; -; Genomic_DNA.
+DR   RefSeq; NP_001101344.1; NM_001107874.1.
+DR   SMR; D4A3D8; -.
+DR   STRING; 10116.ENSRNOP00000011490; -.
+DR   Ensembl; ENSRNOT00000011490; ENSRNOP00000011490; ENSRNOG00000008274.
+DR   GeneID; 312560; -.
+DR   KEGG; rno:312560; -.
+DR   UCSC; RGD:1305760; rat.
+DR   CTD; 7508; -.
+DR   RGD; 1305760; Xpc.
+DR   eggNOG; KOG2179; Eukaryota.
+DR   eggNOG; COG5535; LUCA.
+DR   GeneTree; ENSGT00390000005194; -.
+DR   KO; K10838; -.
+DR   OMA; EEKWVCV; -.
+DR   OrthoDB; 750482at2759; -.
+DR   TreeFam; TF101242; -.
+DR   Reactome; R-RNO-3108214; SUMOylation of DNA damage response and repair proteins.
+DR   Reactome; R-RNO-5696394; DNA Damage Recognition in GG-NER.
+DR   Reactome; R-RNO-5696395; Formation of Incision Complex in GG-NER.
+DR   Proteomes; UP000002494; Chromosome 4.
+DR   Bgee; ENSRNOG00000008274; Expressed in 10 organ(s), highest expression level in liver.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0005739; C:mitochondrion; IEA:Ensembl.
+DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
+DR   GO; GO:0000111; C:nucleotide-excision repair factor 2 complex; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IDA:RGD.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0090734; C:site of DNA damage; IEA:Ensembl.
+DR   GO; GO:0071942; C:XPC complex; IBA:GO_Central.
+DR   GO; GO:0003684; F:damaged DNA binding; IBA:GO_Central.
+DR   GO; GO:0044877; F:protein-containing complex binding; IEA:Ensembl.
+DR   GO; GO:0003697; F:single-stranded DNA binding; IBA:GO_Central.
+DR   GO; GO:0031573; P:intra-S DNA damage checkpoint; IEA:Ensembl.
+DR   GO; GO:0006298; P:mismatch repair; IBA:GO_Central.
+DR   GO; GO:0006289; P:nucleotide-excision repair; IBA:GO_Central.
+DR   GO; GO:0000715; P:nucleotide-excision repair, DNA damage recognition; IEA:Ensembl.
+DR   GO; GO:0000720; P:pyrimidine dimer repair by nucleotide-excision repair; IEA:Ensembl.
+DR   GO; GO:1901990; P:regulation of mitotic cell cycle phase transition; IEA:Ensembl.
+DR   GO; GO:0010996; P:response to auditory stimulus; IEP:RGD.
+DR   GO; GO:0042493; P:response to drug; IEP:RGD.
+DR   GO; GO:0010224; P:response to UV-B; IEA:Ensembl.
+DR   GO; GO:1990731; P:UV-damage excision repair, DNA incision; IEA:Ensembl.
+DR   Gene3D; 3.30.70.2460; -; 1.
+DR   Gene3D; 3.90.260.10; -; 1.
+DR   InterPro; IPR018327; BHD_2.
+DR   InterPro; IPR004583; DNA_repair_Rad4.
+DR   InterPro; IPR018026; DNA_repair_Rad4_subgr.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR018325; Rad4/PNGase_transGLS-fold.
+DR   InterPro; IPR018326; Rad4_beta-hairpin_dom1.
+DR   InterPro; IPR018328; Rad4_beta-hairpin_dom3.
+DR   InterPro; IPR042488; Rad4_BHD3_sf.
+DR   InterPro; IPR036985; Transglutaminase-like_sf.
+DR   PANTHER; PTHR12135; PTHR12135; 1.
+DR   Pfam; PF10403; BHD_1; 1.
+DR   Pfam; PF10404; BHD_2; 1.
+DR   Pfam; PF10405; BHD_3; 1.
+DR   Pfam; PF03835; Rad4; 1.
+DR   SMART; SM01030; BHD_1; 1.
+DR   SMART; SM01031; BHD_2; 1.
+DR   SMART; SM01032; BHD_3; 1.
+DR   SUPFAM; SSF54001; SSF54001; 1.
+DR   TIGRFAMs; TIGR00605; rad4; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002494};
+KW   Proteomics identification {ECO:0000213|PeptideAtlas:D4A3D8};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002494}.
+FT   DOMAIN      624    676       BHD_1. {ECO:0000259|SMART:SM01030}.
+FT   DOMAIN      678    738       BHD_2. {ECO:0000259|SMART:SM01031}.
+FT   DOMAIN      745    819       BHD_3. {ECO:0000259|SMART:SM01032}.
+FT   REGION        1    133       Disordered. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   REGION      325    515       Disordered. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   REGION      867    933       Disordered. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COILED      816    836       {ECO:0000256|SAM:Coils}.
+FT   COMPBIAS     12     44       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COMPBIAS     82    121       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COMPBIAS    337    354       Polar. {ECO:0000256|SAM:MobiDB-lite}.
+FT   COMPBIAS    355    369       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COMPBIAS    395    411       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COMPBIAS    445    460       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+FT   COMPBIAS    467    503       Polar. {ECO:0000256|SAM:MobiDB-lite}.
+FT   COMPBIAS    902    933       Polyampholyte. {ECO:0000256|SAM:MobiDB-
+FT                                lite}.
+SQ   SEQUENCE   933 AA;  104860 MW;  01C1B5D7CC50669F CRC64;
+     MARKRTAGGK RRKRGQEAED NKATRPEESD ADDFEDEKQK PPRKCFLPKV SQGKRKRDCS
+     DPGDPTNGAA KKKVAKATTK SKNLKAVKEE ALSDDGDDFR DSLSNCRKAK KHPKREVVDQ
+     GTDEDDSEDD WEEVEELTEP VLDMGENSAT SRSDLPVKAV EIEIETPEQA KARERSEKIK
+     MEFETYLRRM MKRFNKEVQE NMHKVHLLCL LASGFYRNSI CQQPDLLAIG LSIIPIRFTK
+     VPLQDRDVYY LSNLVKWFIG TFTVNADLSA SEQDSLQTTL ERRIAIYSAR DNEELVHIFL
+     LILRALQLLT RLVLSLQPIP LKSAVAKGKK SSKETSLEGP GDSSEPSSNI PESHNKPKTS
+     KRIKQEETLS EGSGKANARG KRGTATAGSR QQRKPSCSEG EEAKQEIQSH PQAQKRRVAA
+     KVSYKEESES DGAGSGSDFE LSSGEGQHSS DEDCKPGPRK QKRASAPQRS KAGSKSASKT
+     QSGSQWEPPS FSVASSSSSA CKRGKKISCG GEETDDRKAA GVDQWLEVFC EPQAKWVCVD
+     CVHGVVGQPV ACYKYATKPM TYVVGIDSDG WVRDVTQRYD PAWMTATRKC RVDAEWWAET
+     LRPYRSPLTE REKKEDQEFQ AKHLDQPLPT SISTYKNHPL YALKRHLLKF QAIYPESAAV
+     LGYCRGEAVY SRDCVHTLHS RDTWLKQARV VRLGEVPYKM VKGFSNRARK ARLSEPQLHD
+     HNDLGLFGHW QTEEYQPPVA VDGKVPRNEF GNVYLFLPSM MPIGCVQMNL PNLHRVARKL
+     GIDCVQAITG FDFHGGYCHP VTDGYVVCEE FRDVLLAAWE NEQALIEKKE KEKKEKRALG
+     NWKLLVRGLL IRERLKLRYG AKSEAAAPHA NAGGGLSSDE EEGTSSQAEA ARVLAASWPQ
+     NRETKEEQKP DYTKMTRRRR AAEASHLFPF EKL
+//

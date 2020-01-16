@@ -1,0 +1,400 @@
+ID   XPC_MOUSE               Reviewed;         930 AA.
+AC   P51612; P54732; Q3TKI2; Q920M1; Q9DBW7;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   16-AUG-2004, sequence version 2.
+DT   13-NOV-2019, entry version 152.
+DE   RecName: Full=DNA repair protein complementing XP-C cells homolog;
+DE   AltName: Full=Xeroderma pigmentosum group C-complementing protein homolog;
+DE   AltName: Full=p125;
+GN   Name=Xpc;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 3-930.
+RX   PubMed=8604333; DOI=10.1093/nar/24.6.1026;
+RA   Li L., Peterson C., Legerski R.;
+RT   "Sequence of the mouse XPC cDNA and genomic structure of the human XPC
+RT   gene.";
+RL   Nucleic Acids Res. 24:1026-1028(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Yokoi M., Hanaoka F.;
+RT   "Molecular cloning of mouse XPC.";
+RL   Submitted (SEP-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Lung, and Skin;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 59-617.
+RC   STRAIN=129/Sv;
+RX   PubMed=7675084; DOI=10.1038/377162a0;
+RA   Sands A.T., Abuin A., Sanchez A., Conti C.J., Bradley A.;
+RT   "High susceptibility to ultraviolet-induced carcinogenesis in mice
+RT   lacking XPC.";
+RL   Nature 377:162-165(1995).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-875 AND SER-876, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=17242355; DOI=10.1073/pnas.0609836104;
+RA   Villen J., Beausoleil S.A., Gerber S.A., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of mouse liver.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:1488-1493(2007).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-875 AND SER-876, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19144319; DOI=10.1016/j.immuni.2008.11.006;
+RA   Trost M., English L., Lemieux S., Courcelles M., Desjardins M.,
+RA   Thibault P.;
+RT   "The phagosomal proteome in interferon-gamma-activated macrophages.";
+RL   Immunity 30:143-154(2009).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-93; SER-875 AND SER-876,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Kidney, Liver, Lung, Pancreas,
+RC   Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Involved in global genome nucleotide excision repair
+CC       (GG-NER) by acting as damage sensing and DNA-binding factor
+CC       component of the XPC complex. Has only a low DNA repair activity
+CC       by itself which is stimulated by RAD23B and RAD23A. Has a
+CC       preference to bind DNA containing a short single-stranded segment
+CC       but not to damaged oligonucleotides. This feature is proposed to
+CC       be related to a dynamic sensor function: XPC can rapidly screen
+CC       duplex DNA for non-hydrogen-bonded bases by forming a transient
+CC       nucleoprotein intermediate complex which matures into a stable
+CC       recognition complex through an intrinsic single-stranded DNA-
+CC       binding activity. The XPC complex is proposed to represent the
+CC       first factor bound at the sites of DNA damage and together with
+CC       other core recognition factors, XPA, RPA and the TFIIH complex, is
+CC       part of the pre-incision (or initial recognition) complex. The XPC
+CC       complex recognizes a wide spectrum of damaged DNA characterized by
+CC       distortions of the DNA helix such as single-stranded loops,
+CC       mismatched bubbles or single-stranded overhangs. The orientation
+CC       of XPC complex binding appears to be crucial for inducing a
+CC       productive NER. XPC complex is proposed to recognize and to
+CC       interact with unpaired bases on the undamaged DNA strand which is
+CC       followed by recruitment of the TFIIH complex and subsequent
+CC       scanning for lesions in the opposite strand in a 5'-to-3'
+CC       direction by the NER machinery. Cyclobutane pyrimidine dimers
+CC       (CPDs) which are formed upon UV-induced DNA damage esacpe
+CC       detection by the XPC complex due to a low degree of structural
+CC       perurbation. Instead they are detected by the UV-DDB complex which
+CC       in turn recruits and cooperates with the XPC complex in the
+CC       respective DNA repair. In vitro, the XPC:RAD23B dimer is
+CC       sufficient to initiate NER; it preferentially binds to cisplatin
+CC       and UV-damaged double-stranded DNA and also binds to a variety of
+CC       chemically and structurally diverse DNA adducts. XPC:RAD23B
+CC       contacts DNA both 5' and 3' of a cisplatin lesion with a
+CC       preference for the 5' side. XPC:RAD23B induces a bend in DNA upon
+CC       binding. XPC:RAD23B stimulates the activity of DNA glycosylases
+CC       TDG and SMUG1. {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- FUNCTION: In absence of DNA repair, the XPC complex also acts as a
+CC       transcription coactivator: XPC interacts with the DNA-binding
+CC       transcription factor E2F1 at a subset of promoters to recruit
+CC       KAT2A and histone acetyltransferase complexes (HAT). KAT2A
+CC       recruitment specifically promotes acetylation of histone variant
+CC       H2A.Z.1/H2A.Z, but not H2A.Z.2/H2A.V, thereby promoting expression
+CC       of target genes. {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- SUBUNIT: Component of the XPC complex composed of XPC, RAD23B and
+CC       CETN2. Interacts with RAD23A; the interaction is suggesting the
+CC       existence of a functional equivalent variant XPC complex.
+CC       Interacts with TDG; the interaction is demonstrated using the
+CC       XPC:RAD23B dimer. Interacts with SMUG1; the interaction is
+CC       demonstrated using the XPC:RAD23B dimer. Interacts with DDB2.
+CC       Interacts with CCNH, GTF2H1 and ERCC3. Interacts with E2F1 and
+CC       KAT2A; leading to KAT2A recruitment to promoters and subsequent
+CC       acetylation of histones. {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250|UniProtKB:Q01831}.
+CC       Chromosome {ECO:0000250|UniProtKB:Q01831}. Cytoplasm
+CC       {ECO:0000250|UniProtKB:Q01831}. Note=Omnipresent in the nucleus
+CC       and consistently associates with and dissociates from DNA in the
+CC       absence of DNA damage. Continuously shuttles between the cytoplasm
+CC       and the nucleus, which is impeded by the presence of NER lesions.
+CC       {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- PTM: Ubiquitinated upon UV irradiation; the ubiquitination
+CC       requires the UV-DDB complex, appears to be reversible and does not
+CC       serve as a signal for degradation. Ubiquitinated by RNF11 via
+CC       'Lys-63'-linked ubiquitination. Ubiquitination by RNF111 is
+CC       polysumoylation-dependent and promotes nucleotide excision repair.
+CC       {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- PTM: Sumoylated; sumoylation promotes ubiquitination by RNF111.
+CC       {ECO:0000250|UniProtKB:Q01831}.
+CC   -!- SIMILARITY: Belongs to the XPC family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC52500.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U27398; AAC52500.1; ALT_FRAME; mRNA.
+DR   EMBL; AB071144; BAB64540.1; -; mRNA.
+DR   EMBL; AK004713; BAB23497.1; -; mRNA.
+DR   EMBL; AK028595; BAC26023.1; -; mRNA.
+DR   EMBL; AK166981; BAE39163.1; -; mRNA.
+DR   EMBL; U40005; AAA82720.1; -; mRNA.
+DR   CCDS; CCDS39569.1; -.
+DR   PIR; S70630; S70630.
+DR   RefSeq; NP_033557.2; NM_009531.2.
+DR   SMR; P51612; -.
+DR   BioGrid; 204605; 1.
+DR   IntAct; P51612; 3.
+DR   MINT; P51612; -.
+DR   STRING; 10090.ENSMUSP00000032182; -.
+DR   iPTMnet; P51612; -.
+DR   PhosphoSitePlus; P51612; -.
+DR   EPD; P51612; -.
+DR   jPOST; P51612; -.
+DR   MaxQB; P51612; -.
+DR   PaxDb; P51612; -.
+DR   PeptideAtlas; P51612; -.
+DR   PRIDE; P51612; -.
+DR   Ensembl; ENSMUST00000032182; ENSMUSP00000032182; ENSMUSG00000030094.
+DR   GeneID; 22591; -.
+DR   KEGG; mmu:22591; -.
+DR   UCSC; uc009cyd.2; mouse.
+DR   CTD; 7508; -.
+DR   MGI; MGI:103557; Xpc.
+DR   eggNOG; KOG2179; Eukaryota.
+DR   eggNOG; COG5535; LUCA.
+DR   GeneTree; ENSGT00390000005194; -.
+DR   HOGENOM; HOG000124671; -.
+DR   InParanoid; P51612; -.
+DR   KO; K10838; -.
+DR   OMA; EEKWVCV; -.
+DR   OrthoDB; 750482at2759; -.
+DR   PhylomeDB; P51612; -.
+DR   TreeFam; TF101242; -.
+DR   Reactome; R-MMU-3108214; SUMOylation of DNA damage response and repair proteins.
+DR   Reactome; R-MMU-5696394; DNA Damage Recognition in GG-NER.
+DR   Reactome; R-MMU-5696395; Formation of Incision Complex in GG-NER.
+DR   ChiTaRS; Xpc; mouse.
+DR   PRO; PR:P51612; -.
+DR   Proteomes; UP000000589; Chromosome 6.
+DR   Bgee; ENSMUSG00000030094; Expressed in 258 organ(s), highest expression level in substantia nigra.
+DR   ExpressionAtlas; P51612; baseline and differential.
+DR   Genevisible; P51612; MM.
+DR   GO; GO:0005737; C:cytoplasm; ISO:MGI.
+DR   GO; GO:0005829; C:cytosol; ISO:MGI.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; ISO:MGI.
+DR   GO; GO:0005739; C:mitochondrion; ISO:MGI.
+DR   GO; GO:0005730; C:nucleolus; ISO:MGI.
+DR   GO; GO:0005654; C:nucleoplasm; ISO:MGI.
+DR   GO; GO:0000109; C:nucleotide-excision repair complex; ISS:UniProtKB.
+DR   GO; GO:0000111; C:nucleotide-excision repair factor 2 complex; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0005886; C:plasma membrane; ISO:MGI.
+DR   GO; GO:0090734; C:site of DNA damage; IDA:MGI.
+DR   GO; GO:0071942; C:XPC complex; ISS:UniProtKB.
+DR   GO; GO:0003684; F:damaged DNA binding; IDA:MGI.
+DR   GO; GO:0044877; F:protein-containing complex binding; ISS:UniProtKB.
+DR   GO; GO:0003697; F:single-stranded DNA binding; ISO:MGI.
+DR   GO; GO:0006974; P:cellular response to DNA damage stimulus; IMP:MGI.
+DR   GO; GO:0006281; P:DNA repair; IMP:MGI.
+DR   GO; GO:0031573; P:intra-S DNA damage checkpoint; IGI:MGI.
+DR   GO; GO:0006298; P:mismatch repair; IBA:GO_Central.
+DR   GO; GO:0006289; P:nucleotide-excision repair; IDA:MGI.
+DR   GO; GO:0000715; P:nucleotide-excision repair, DNA damage recognition; ISO:MGI.
+DR   GO; GO:0000720; P:pyrimidine dimer repair by nucleotide-excision repair; IMP:MGI.
+DR   GO; GO:1901990; P:regulation of mitotic cell cycle phase transition; ISO:MGI.
+DR   GO; GO:0010996; P:response to auditory stimulus; IEA:Ensembl.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0010224; P:response to UV-B; IMP:MGI.
+DR   GO; GO:0070914; P:UV-damage excision repair; IDA:MGI.
+DR   GO; GO:1990731; P:UV-damage excision repair, DNA incision; IMP:MGI.
+DR   Gene3D; 3.30.70.2460; -; 1.
+DR   Gene3D; 3.90.260.10; -; 1.
+DR   InterPro; IPR018327; BHD_2.
+DR   InterPro; IPR004583; DNA_repair_Rad4.
+DR   InterPro; IPR018026; DNA_repair_Rad4_subgr.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR018325; Rad4/PNGase_transGLS-fold.
+DR   InterPro; IPR018326; Rad4_beta-hairpin_dom1.
+DR   InterPro; IPR018328; Rad4_beta-hairpin_dom3.
+DR   InterPro; IPR042488; Rad4_BHD3_sf.
+DR   InterPro; IPR036985; Transglutaminase-like_sf.
+DR   PANTHER; PTHR12135; PTHR12135; 1.
+DR   Pfam; PF10403; BHD_1; 1.
+DR   Pfam; PF10404; BHD_2; 1.
+DR   Pfam; PF10405; BHD_3; 1.
+DR   Pfam; PF03835; Rad4; 1.
+DR   SMART; SM01030; BHD_1; 1.
+DR   SMART; SM01031; BHD_2; 1.
+DR   SMART; SM01032; BHD_3; 1.
+DR   SUPFAM; SSF54001; SSF54001; 1.
+DR   TIGRFAMs; TIGR00605; rad4; 1.
+PE   1: Evidence at protein level;
+KW   Chromosome; Complete proteome; Cytoplasm; DNA damage; DNA repair;
+KW   DNA-binding; Isopeptide bond; Nucleus; Phosphoprotein;
+KW   Reference proteome; Transcription; Transcription regulation;
+KW   Ubl conjugation.
+FT   CHAIN         1    930       DNA repair protein complementing XP-C
+FT                                cells homolog.
+FT                                /FTId=PRO_0000218294.
+FT   REGION      489    727       Interaction with RAD23B. {ECO:0000250}.
+FT   REGION      600    759       Minimal sensor domain involved in damage
+FT                                recognition. {ECO:0000250}.
+FT   REGION      600    734       DNA-binding; preference for heteroduplex
+FT                                DNA. {ECO:0000250}.
+FT   REGION      760    824       DNA-binding; preference for single
+FT                                stranded DNA; required for formation of
+FT                                stable nucleoprotein complex.
+FT                                {ECO:0000250}.
+FT   REGION      809    930       Interaction with ERCC2 and GTF2H1.
+FT                                {ECO:0000250}.
+FT   REGION      840    859       Interaction with CETN2. {ECO:0000250}.
+FT   MOTIF       388    393       Nuclear localization signal.
+FT                                {ECO:0000255}.
+FT   COMPBIAS     27    173       Glu-rich (acidic).
+FT   COMPBIAS    355    393       Lys-rich (basic).
+FT   COMPBIAS    401    424       Arg/Lys-rich (basic).
+FT   COMPBIAS    425    454       Asp/Glu-rich (acidic).
+FT   COMPBIAS    459    486       Arg/Lys-rich (basic).
+FT   MOD_RES      93     93       Phosphoserine.
+FT                                {ECO:0000244|PubMed:21183079}.
+FT   MOD_RES     126    126       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   MOD_RES     165    165       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   MOD_RES     395    395       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   MOD_RES     397    397       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   MOD_RES     875    875       Phosphoserine.
+FT                                {ECO:0000244|PubMed:17242355,
+FT                                ECO:0000244|PubMed:19144319,
+FT                                ECO:0000244|PubMed:21183079}.
+FT   MOD_RES     876    876       Phosphoserine.
+FT                                {ECO:0000244|PubMed:17242355,
+FT                                ECO:0000244|PubMed:19144319,
+FT                                ECO:0000244|PubMed:21183079}.
+FT   MOD_RES     883    883       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   MOD_RES     895    895       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   CROSSLNK     40     40       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   CROSSLNK     80     80       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   CROSSLNK     88     88       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   CROSSLNK    157    157       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in SUMO2).
+FT                                {ECO:0000250|UniProtKB:Q01831}.
+FT   CONFLICT     13     13       K -> N (in Ref. 2; BAB64540).
+FT                                {ECO:0000305}.
+FT   CONFLICT     84     84       L -> S (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT     98     98       F -> L (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    101    101       S -> L (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    148    149       AT -> CP (in Ref. 2; BAB64540).
+FT                                {ECO:0000305}.
+FT   CONFLICT    165    166       TP -> RG (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    196    201       EVQENM -> GVHEDT (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    212    212       S -> N (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    218    218       S -> N (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    221    223       RQP -> SQL (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    373    375       GKA -> AKP (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    373    373       G -> GS (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    397    397       S -> R (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    454    454       E -> K (in Ref. 2; BAB64540).
+FT                                {ECO:0000305}.
+FT   CONFLICT    458    458       R -> C (in Ref. 4; AAA82720).
+FT                                {ECO:0000305}.
+FT   CONFLICT    497    497       S -> C (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    614    614       E -> K (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    621    622       KH -> ND (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    683    683       W -> R (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    712    715       LSEP -> HLGA (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    751    751       N -> K (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    777    777       R -> H (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    797    797       C -> S (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+FT   CONFLICT    921    921       A -> P (in Ref. 1; AAC52500).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   930 AA;  104522 MW;  0C469AB21B4E4EE9 CRC64;
+     MAPKRTADGR RRKRGQKTED NKVARHEESV ADDFEDEKQK PRRKSSFPKV SQGKRKRGCS
+     DPGDPTNGAA KKKVAKATAK SKNLKVLKEE ALSDGDDFRD SPADCKKAKK HPKSKVVDQG
+     TDEDDSEDDW EEVEELTEPV LDMGENSATS PSDMPVKAVE IEIETPQQAK ERERSEKIKM
+     EFETYLRRMM KRFNKEVQEN MHKVHLLCLL ASGFYRNSIC RQPDLLAIGL SIIPIRFTKV
+     PLQDRDAYYL SNLVKWFIGT FTVNADLSAS EQDDLQTTLE RRIAIYSARD NEELVHIFLL
+     ILRALQLLTR LVLSLQPIPL KSAVTKGRKS SKETSVEGPG GSSELSSNSP ESHNKPTTSR
+     RIKEEETLSE GRGKATARGK RGTGTAGSRQ RRKPSCSEGE EAEQKVQGRP HARKRRVAAK
+     VSYKEESESD GAGSGSDFEP SSGEGQHSSD EDCEPGPRKQ KRASAPQRTK AGSKSASKTQ
+     RGSQCEPSSF PEASSSSSGC KRGKKVSSGA EEMADRKPAG VDQWLEVYCE PQAKWVCVDC
+     VHGVVGQPVA CYKYATKPMT YVVGIDSDGW VRDVTQRYDP AWMTATRKCR VDAEWWAETL
+     RPYRSLLTER EKKEDQEFQA KHLDQPLPTS ISTYKNHPLY ALKRHLLKFQ AIYPETAAVL
+     GYCRGEAVYS RDCVHTLHSR DTWLKQARVV RLGEVPYKMV KGFSNRARKA RLSEPQLHDH
+     NDLGLYGHWQ TEEYQPPIAV DGKVPRNEFG NVYLFLPSMM PVGCVQMTLP NLNRVARKLG
+     IDCVQAITGF DFHGGYCHPV TDGYIVCEEF RDVLLAAWEN EQAIIEKKEK EKKEKRALGN
+     WKLLVRGLLI RERLKLRYGA KSEAAAPHAA GGGLSSDEEE GTSSQAEAAR VLAASWPQNR
+     EDPEQKSEYT KMTRKRRAAE ASHLFPFEKL
+//
